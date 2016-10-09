@@ -7,6 +7,16 @@ body{
 	background-color: #e2e2e2;
 }
 
+.clear,
+.Clear{
+	clear: both;
+}
+
+.contentMargin{
+	margin:8px;
+	width: calc(100% - 16px);
+}
+
 /* Page containers */ 
 
 #container{
@@ -38,19 +48,50 @@ body{
 }
 
 #page{
-    width: 1370px;
+    max-width: 1400px;
     margin: 0 auto;
     position: relative;
     min-height: 220px;
     background-color: #fbfafc;
-    padding: 1%;
 }
 
 #footer{
-	width: 1370px;
+	max-width: 1400px;
 	margin: 0 auto;
 	position: relative;
 	min-height: 280px;
 	background-color: #ff5e00;
-	padding: 1%;
 }
+
+/* coll */ 
+.coll-100{
+	width: 100%;
+    float: left;
+    position: relative;
+}
+
+.coll-66{
+	width: 66.66%;
+    float: left;
+    position: relative;
+}
+
+.coll-33{
+	width: 33.33%;
+    float: left;
+    position: relative;
+}
+
+
+
+/* Home pagina */ 
+
+.home .blok{
+    height: 450px;
+    background-color: #ff5e00;
+}
+
+
+
+
+

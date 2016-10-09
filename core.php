@@ -22,16 +22,20 @@ class Core {
 			echo $pages->notfound();
 		}	
 	}
-	
-	// Functie die de pagina titel returned. (Lagestreep _ voor spatie)
-	function paginaTitel(){
+
+	// Functie die de pagina titel returned voor in de titel. (Lagestreep _ voor spatie)
+	function paginaTitel($spatie = true){
 		if (empty($_GET["p"])){ 
-			$page = 'Home';
+			$page = 'home';
 		}else{
-			$page = str_replace("_"," ",$_GET["p"]);
+			if($spatie == true){
+				$page = str_replace("_"," ",$_GET["p"]); //Voor het tonen op pagina
+			}else{
+				$page = strtolower($_GET["p"]); //Voor in de code
+			}
 		}
 		
-		return 'Harambe College - '.$page;
+		return $page;
 	}
 	
 	//Functie om de taal te veranderen

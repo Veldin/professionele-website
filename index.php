@@ -13,7 +13,7 @@
 <html>
 	<head>
 		<?php
-			echo '<title>'.$core->paginaTitel().'</title>';
+			echo '<title>Harambe College - '.$core->paginaTitel().'</title>';
 		?>
 		<meta http-equiv="content-type" content="text/html;charset=UTF-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -39,7 +39,7 @@
 				
 				
 				echo '<div id="content">';
-					echo '<div id="page">';
+					echo '<div id="page" class="'.$core->paginaTitel(false).'">';
 						$core->load();
 					echo '</div>';
 				
