@@ -1,0 +1,56 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background-color: #e2e2e2;
+}
+
+/* Page containers */ 
+
+#container{
+	width: 100%;
+	height: auto;
+	display: block;
+	position:relative;
+}
+
+#header{
+	background-color: #ff5e00;
+	width: 100%;
+	min-height: 110px;
+}
+
+#headimage{
+	background-color: gray;
+	width: 100%;
+	min-height: 550px;
+	background-image: url("images/slide2.png");
+	background-size: cover;
+}
+
+#content{
+	width: 100%;
+	min-height: 550px;
+	position: absolute;
+	top: 480px;
+}
+
+#page{
+    width: 1370px;
+    margin: 0 auto;
+    position: relative;
+    min-height: 220px;
+    background-color: #fbfafc;
+    padding: 1%;
+}
+
+#footer{
+	width: 1370px;
+	margin: 0 auto;
+	position: relative;
+	min-height: 280px;
+	background-color: #ff5e00;
+	padding: 1%;
+}
