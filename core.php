@@ -38,6 +38,15 @@ class Core {
 		return $page;
 	}
 	
+	//Functie voor het verkrijgen van de huidige taal.
+	function getTaal(){
+		if (empty($_SESSION["taal"])){ 
+			$_SESSION["taal"] = 'nl';
+		}
+		
+		return $_SESSION["taal"];
+	}
+	
 	//Functie om de taal te veranderen
 	function taal(){
 	
