@@ -60,5 +60,9 @@ class Pages {
 		echo 'Pagina niet gevonden!';
 	}
 
+	function test(){
+		echo "test";
+	}
+
 }
 ?>
