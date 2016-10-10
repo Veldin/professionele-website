@@ -2,6 +2,11 @@
 //Een class met al mijn paginas als functies
 
 class Pages {  
+
+	function lol(){
+		
+		echo 'lol';
+	}
 	//Hoofd pagina
 	function home(){
 	
