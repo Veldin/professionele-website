@@ -50,6 +50,17 @@ class Pages {
 
 	}
 	
+	function schoolofbuisnisses (){
+		
+		echo '<div class="coll-100">';
+			echo '<div class="coll-33">';
+				echo '<div class="blok contentMargin">';
+					echo 'school of business';
+				echo '</div>';
+			echo '</div>';
+		
+	}
+	
 	//De footer word op elke standaard pagina geladen aan de onderkant.
 	function footer(){
 		echo 'Footer!';
