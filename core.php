@@ -57,13 +57,58 @@ class Core {
 		if (!empty($_GET["t"])){ 
 			$_SESSION["taal"] = $_GET["t"];
 		}
-		
-	
+
 		if($_SESSION["taal"] == 'en'){
 			echo '<style>.dutch{display:none;}</style>';
 		}else{
 			echo '<style>.english{display:none;}</style>';
 		}
+	}
+	
+	//Functie voor het ophalen van externe paginas.
+	function easy_curl($url, $backup = true){
+
+		//Cleaned filename for backuping (also; folderd)
+		$filename = $url;
+		$filename = str_replace(":","]]",$filename);
+		$filename = str_replace("?","[[",$filename);
+		$filename = str_replace("/","||",$filename);
+		
+		$filename = 'curl/'.$filename.'.txt';
+		
+		if (file_exists($filename) && $backup == true) {
+			//File already exsists!
+			$line = fgets(fopen($filename, 'r'));
+			$timeout = 300000;
+			
+			if( (time() - $line) > $timeout){
+				return $this->easy_curl($url, false);
+			}else{
+				return file_get_contents($filename, true);
+			}
+			
+		} else { //Does not exist or timed out or ignore backup
+		
+			$ch = curl_init();  
+			curl_setopt($ch, CURLOPT_URL, $url);  
+			curl_setopt($ch, CURLOPT_HEADER, 0);  
+			curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);  
+			curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+			
+			$output = curl_exec($ch); 
+			curl_close($ch);
+			
+			//File does not already exsists!
+			$myfile = fopen($filename, "w") or die("Unable to open file!");
+			
+			//write time and next line
+			fwrite($myfile, time()."\r\n");
+			
+			fwrite($myfile, $output);
+			fclose($myfile);
+		}
+		
+		return $output;
 	}
 
 }
