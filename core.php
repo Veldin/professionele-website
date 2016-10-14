@@ -70,9 +70,9 @@ class Core {
 
 		//Cleaned filename for backuping (also; folderd)
 		$filename = $url;
-		$filename = str_replace(":","]]",$filename);
-		$filename = str_replace("?","[[",$filename);
-		$filename = str_replace("/","||",$filename);
+		$filename = str_replace(":","&&",$filename);
+		$filename = str_replace("?","))",$filename);
+		$filename = str_replace("/","((",$filename);
 		
 		$filename = 'curl/'.$filename.'.txt';
 		
@@ -106,10 +106,67 @@ class Core {
 			
 			fwrite($myfile, $output);
 			fclose($myfile);
-		}
 		
+		}
 		return $output;
 	}
 
+}
+
+class Rss {
+<<<<<<< HEAD
+	//Function to strip content from rss feeds.
+    function fetch($rssFeed, $start){
+    	//define the tags.
+    	$tagS = "<" . $start . ">";
+    	$tagE = "</" . $start . ">";
+    	//
+    	$rssString = explode("<item>", $rssFeed);
+    	$tagELen = strlen($tagE);
+
+    	//Initialisation of list.
+    	$list = "";
+
+
+    	//Defines what chars to strip.
+        foreach($rssString as $article){
+            $varS = explode($tagS, $article);
+            $varE = explode($tagE, $article);
+            $varELen = strlen($varE[1]);
+            $varSLen = strlen($varS[1]);
+            $length = $varSLen - $varELen - $tagELen;
+
+        //Strips content of defined tag.
+           $sub = substr($varS[1], 0, $length);
+        //Makes a string with all the stripped content.   
+           $list = $list . "&&" . $sub;
+
+        }
+        //returns the stripped content in a string.
+        return $list;
+=======
+    function fetch($rssFeed, $tagS, $tagE){
+    	 $rssString = explode("<item>", $rssFeed);
+    	 $tagELen = strlen($tagE);
+
+    	 echo $tagS . '<br>';
+    	 echo $tagE;
+
+         foreach($rssString as $article){
+             $varS = explode($tagS, $article);
+             $varE = explode($tagE, $article);
+             $varELen = strlen($varE[1]);
+             $varSLen = strlen($varS[1]);
+             $length = $varSLen - $varELen - $tagELen;
+             echo $varSLen . "<br>";
+             echo $varELen . "<br>";
+             echo $length . "<br><br>";
+         
+            $sub = substr($varS[1], 0, $length);
+            echo $sub . "<br><br>";
+           
+        }
+>>>>>>> origin/DiabetiMark
+    }
 }
 ?>
