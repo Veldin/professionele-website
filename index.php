@@ -8,8 +8,8 @@
 	$core = new Core;
 	$pages = new Pages;
 
-	$rss = $core->easy_curl("http://www.nu.nl/rss");
-	echo $rss;
+	//rss = $core->easy_curl("http://www.nu.nl/rss");
+	//echo $rss;
 	
 	
 ?>
