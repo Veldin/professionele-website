@@ -121,7 +121,7 @@ class Core {
     	$tagELen = strlen($tagE);
 
     	//Initialisation of list.
-    	$list = "";
+    	$list = array();
 
 
     	//Defines what chars to strip.
@@ -134,15 +134,13 @@ class Core {
 
         //Strips content of defined tag.
            $sub = substr($varS[1], 0, $length);
-        //Makes a string with all the stripped content.   
-           $list = $list . "&&" . $sub;
+		   
+        //Push entry in array 
+		   array_push($list, $sub);
 
         }
-		echo '<hr>';
-			
-		echo '<hr>';
 		
-        //returns the stripped content in a string.
+        //returns array with entries.
         return $list;
 	}
 }
