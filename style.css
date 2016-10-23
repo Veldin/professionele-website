@@ -1,10 +1,38 @@
 *{
 	margin: 0;
 	padding: 0;
+	font-family: Verdana;
+	line-height: 1.6;
 }
 
 body{
 	background-color: #e2e2e2;
+}
+
+h1{
+    font-family: Verdana;
+    color: gray;
+    border-bottom: 3px solid #ff5e00;
+    margin-bottom: 20px;
+    margin-top: 22px;
+    padding-left: 10px;
+    font-weight: normal;
+    padding-bottom: 2px;
+    font-size: 50px;
+    line-height: 0.8;
+}
+
+h2{
+    font-family: Verdana;
+    color: #ff5e00;
+    font-weight: normal;
+    font-size: 35px;
+}
+
+@font-face {
+    font-family: shonar;
+    src: url(http://www.veldin.com/r/stenden/prowebsite/fonts/shonar.ttf);
+	 font-weight: normal;
 }
 
 .clear,
@@ -89,6 +117,82 @@ body{
 .home .blok{
     height: 450px;
     background-color: #ff5e00;
+	position: relative;
+	
+	-webkit-user-select: none; /* Chrome/Safari */        
+	-moz-user-select: none; /* Firefox */
+	-ms-user-select: none; /* IE10+ */
+
+	/* Rules below not implemented in browsers yet */
+	-o-user-select: none;
+	user-select: none;
+}
+
+.home .blok span:first-child{
+    position: absolute;
+    left: 0;
+    right: 0;
+    text-align: center;
+    color: white;
+    top: 15%;
+    margin: 0;
+    padding: 0;
+    font-family: shonar;
+    font-size: 100px;
+    line-height: 1.6;
+}
+
+.home .blok span:nth-child(2){
+    position: absolute;
+    left: 0;
+    right: 0;
+    text-align: center;
+    color: white;
+    top: 28%;
+    margin: 0;
+    padding: 0;
+    font-family: shonar;
+    font-size: 100px;
+    line-height: 1.6;
+}
+
+.home .blok span:nth-child(3){
+    position: absolute;
+    left: 0;
+    right: 0;
+    text-align: center;
+    color: white;
+    top: 58%;
+    margin: 0;
+    padding: 0;
+    font-family: shonar;
+    font-size: 40px;
+    line-height: 1.6;
+}
+
+.home .blok span:nth-child(4){
+    position: absolute;
+    left: 0;
+    right: 0;
+    text-align: center;
+    color: white;
+    top: 64%;
+    margin: 0;
+    padding: 0;
+    font-family: shonar;
+    font-size: 40px;
+    line-height: 1.6;
+}
+
+
+.home .blok.business{
+	background: url(images/Home_SchoolOfBusiness.png); 
+	background-size: cover;
+}
+
+.home .blok.technology{
+	background: url(images/Home_SchoolOfTechnology.png); 
+	background-size: cover;
 }
 
 
