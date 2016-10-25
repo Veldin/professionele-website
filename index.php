@@ -7,7 +7,6 @@
 	
 	$core = new Core;
 	$pages = new Pages;
-
 	
 	
 ?>

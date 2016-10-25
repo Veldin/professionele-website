@@ -1,40 +1,10 @@
 *{
 	margin: 0;
 	padding: 0;
-	font-family: Verdana;
-	line-height: 1.6;
 }
 
 body{
 	background-color: #e2e2e2;
-}
-
-h1{
-    font-family: Verdana;
-    color: gray;
-    border-bottom: 3px solid #ff5e00;
-    margin-bottom: 20px;
-    margin-top: 22px;
-    padding-left: 10px;
-    font-weight: normal;
-    padding-bottom: 2px;
-    font-size: 50px;
-    line-height: 0.8;
-}
-
-h2{
-    font-family: Verdana;
-    color: #ff5e00;
-    font-weight: normal;
-    font-size: 35px;
-}
-
-
-
-@font-face {
-    font-family: shonar;
-    src: url(http://www.veldin.com/r/stenden/prowebsite/fonts/shonar.ttf);
-	 font-weight: normal;
 }
 
 .clear,
@@ -45,21 +15,6 @@ h2{
 .contentMargin{
 	margin:8px;
 	width: calc(100% - 16px);
-}
-
-#news h2{
-    font-family: Verdana;
-    color: #ff5e00;
-    font-weight: normal;
-    font-size: 30px;
-    line-height: 1;
-}
-
-#news p {
-    margin-top: 40px;
-    margin-bottom: 5px;
-    padding-bottom: 5px;
-    border-bottom: solid #ff5e00 3px;
 }
 
 /* Page containers */ 
@@ -108,27 +63,10 @@ h2{
 	background-color: #ff5e00;
 }
 
+
 /* coll */ 
 .coll-100{
 	width: 100%;
-    float: left;
-    position: relative;
-}
-
-.coll-80{
-	width: 80%;
-    float: left;
-    position: relative;
-}
-
-.coll-75{
-	width: 25%;
-    float: left;
-    position: relative;
-}
-
-.coll-60{
-	width: 60%;
     float: left;
     position: relative;
 }
@@ -141,47 +79,14 @@ h2{
 
 .coll-50{
 	width: 50%;
-    float: left;
-    position: relative;
-}
-
-.coll-40{
-	width: 40%;
-    float: left;
-    position: relative;
+	float: left;
+	position: relative;
 }
 
 .coll-33{
 	width: 33.33%;
     float: left;
     position: relative;
-}
-
-.coll-25{
-	width: 25%;
-    float: left;
-    position: relative;
-}
-
-.coll-20{
-	width: 20%;
-    float: left;
-    position: relative;
-}
-
-@media only screen and (max-width: 900px) {
-	.coll-100,
-	.coll-80,
-	.coll-75,
-	.coll-60,
-	.coll-66,
-	.coll-50,
-	.coll-40,
-	.coll-33,
-	.coll-25,
-	.coll-20{
-		width: 100%;
-	}
 }
 
 
@@ -191,92 +96,39 @@ h2{
 .home .blok{
     height: 450px;
     background-color: #ff5e00;
-	position: relative;
-	
-	-webkit-user-select: none; /* Chrome/Safari */        
-	-moz-user-select: none; /* Firefox */
-	-ms-user-select: none; /* IE10+ */
-
-	/* Rules below not implemented in browsers yet */
-	-o-user-select: none;
-	user-select: none;
 }
 
-.home .blok span:first-child{
-    position: absolute;
-    left: 0;
-    right: 0;
-    text-align: center;
-    color: white;
-    top: 15%;
-    margin: 0;
-    padding: 0;
-    font-family: shonar;
-    font-size: 100px;
-    line-height: 1.6;
+/* Footer */
+.footerlists {
+	color: white;
 }
 
-.home .blok span:nth-child(2){
-    position: absolute;
-    left: 0;
-    right: 0;
-    text-align: center;
-    color: white;
-    top: 28%;
-    margin: 0;
-    padding: 0;
-    font-family: shonar;
-    font-size: 100px;
-    line-height: 1.6;
+.lijstjes {
+	color: white;
 }
 
-.home .blok span:nth-child(3){
-    position: absolute;
-    left: 0;
-    right: 0;
-    text-align: center;
-    color: white;
-    top: 58%;
-    margin: 0;
-    padding: 0;
-    font-family: shonar;
-    font-size: 40px;
-    line-height: 1.6;
+ul {
+    list-style: none;
+    padding-bottom: 20px;
+    margin: 5px;
+	color: white;
+	padding: 5px;
 }
 
-.home .blok span:nth-child(4){
-    position: absolute;
-    left: 0;
-    right: 0;
-    text-align: center;
-    color: white;
-    top: 64%;
-    margin: 0;
-    padding: 0;
-    font-family: shonar;
-    font-size: 40px;
-    line-height: 1.6;
+li {
+    padding-left: 16px;
+	color: white;
+	padding: 5px;
 }
 
-
-.home .blok.business{
-    background: url(images/Home_SchoolOfBusiness.png);
-    background-size: contain;
-    background-position: center center;
-	background-repeat: no-repeat;
-	    background-color: #e2e2e2;
+li:before {
+    content: ">";
+    padding-right: 8px;
+	color: white;
 }
 
-.home .blok.technology{
-	background: url(images/Home_SchoolOfTechnology.png); 
-	background-size: cover;
-	background-size: contain;
-    background-position: center center;
-	background-repeat: no-repeat;
-	    background-color: #e2e2e2;
+a{
+	text-decoration: none;
+	color: white;
 }
-
-
-
-
 
