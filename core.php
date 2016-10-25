@@ -117,7 +117,7 @@ class Core {
 		}
 		return $output;
 	}
-	
+	/*
 	//Function to strip content from rss feeds.
     function fetch($rssFeed, $start){
     	//define the tags.
@@ -142,13 +142,51 @@ class Core {
         //Strips content of defined tag.
            $sub = substr($varS[1], 0, $length);
 		   
+		//Strips (if contains) tags out of the string.
+		   $final = strip_tags($sub);
         //Push entry in array 
-		   array_push($list, $sub);
+		   array_push($list, $final);
 
         }
 		
         //returns array with entries.
         return $list;
 	}
+	*/
+
+
+	//Function to strip content from rss feeds.
+    function fetch($rssFeed, $start){
+    	//define the tags.
+    	$tagS = "<" . $start . ">";
+    	$tagE = "</" . $start . ">";
+    	//
+    	$rssString = explode("<item>", $rssFeed);
+    	$tagELen = strlen($tagE);
+
+    	//Initialisation of list.
+    	$list = "";
+
+
+    	//Defines what chars to strip.
+        foreach($rssString as $article){
+            $varS = explode($tagS, $article);
+            $varE = explode($tagE, $article);
+            $varELen = strlen($varE[1]);
+            $varSLen = strlen($varS[1]);
+            $length = $varSLen - $varELen - $tagELen;
+
+        //Strips content of defined tag.
+           $sub = substr($varS[1], 0, $length);
+
+           $final = strip_tags($sub);
+        //Makes a string with all the stripped content.   
+           $list = $list . "&&" . $final;
+
+        }
+        //returns the stripped content in a string.
+        return $list;
+
+    }
 }
 ?>
