@@ -4,6 +4,7 @@
 class Pages {  
 	//Hoofd pagina
 	function home(){
+		global $core;
 	
 		echo '<div class="coll-100">';
 			echo '<div class="coll-33">';
@@ -41,6 +42,10 @@ class Pages {
 			echo '<div class="coll-33">';
 				echo '<div class="contentMargin">';
 					echo '<h1>Nieuws</h1>';
+					$rss = $core->easy_curl("http://www.nu.nl/rss");
+					$feed = $core->fetch($rss, "title", "title");
+					print_r( $feed );
+					
 				echo '</div>';
 			echo '</div>';
 			

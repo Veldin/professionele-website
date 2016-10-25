@@ -110,11 +110,7 @@ class Core {
 		}
 		return $output;
 	}
-
-}
-
-class Rss {
-<<<<<<< HEAD
+	
 	//Function to strip content from rss feeds.
     function fetch($rssFeed, $start){
     	//define the tags.
@@ -125,7 +121,7 @@ class Rss {
     	$tagELen = strlen($tagE);
 
     	//Initialisation of list.
-    	$list = "";
+    	$list = array();
 
 
     	//Defines what chars to strip.
@@ -138,35 +134,14 @@ class Rss {
 
         //Strips content of defined tag.
            $sub = substr($varS[1], 0, $length);
-        //Makes a string with all the stripped content.   
-           $list = $list . "&&" . $sub;
+		   
+        //Push entry in array 
+		   array_push($list, $sub);
 
         }
-        //returns the stripped content in a string.
+		
+        //returns array with entries.
         return $list;
-=======
-    function fetch($rssFeed, $tagS, $tagE){
-    	 $rssString = explode("<item>", $rssFeed);
-    	 $tagELen = strlen($tagE);
-
-    	 echo $tagS . '<br>';
-    	 echo $tagE;
-
-         foreach($rssString as $article){
-             $varS = explode($tagS, $article);
-             $varE = explode($tagE, $article);
-             $varELen = strlen($varE[1]);
-             $varSLen = strlen($varS[1]);
-             $length = $varSLen - $varELen - $tagELen;
-             echo $varSLen . "<br>";
-             echo $varELen . "<br>";
-             echo $length . "<br><br>";
-         
-            $sub = substr($varS[1], 0, $length);
-            echo $sub . "<br><br>";
-           
-        }
->>>>>>> origin/DiabetiMark
-    }
+	}
 }
 ?>
