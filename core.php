@@ -47,6 +47,13 @@ class Core {
 		return $_SESSION["taal"];
 	}
 	
+	//Functie die de breadcrumbs terug geeft
+	function breadcrumbs(){
+		//TODO: make this function xD
+	
+		return 'breadcrumbs';
+	}
+	
 	//Functie om de taal te veranderen
 	function taal(){
 	
