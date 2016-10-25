@@ -54,15 +54,22 @@ class Pages {
 		
 			echo '<div class="coll-33">';
 				echo '<div class="contentMargin">';
-					echo '<h1>Nieuws</h1>';
-					$rss = $core->easy_curl("http://www.nu.nl/rss");
-					$feed['title'] = $core->fetch($rss, "title", "title");
-					$feed['description'] = $core->fetch($rss, "description", "description");
+					echo "<div id='news'>";
+						echo '<h1>Nieuws</h1>';
+						$rss = $core->easy_curl("http://www.nu.nl/rss");
+						
+
+						$titleList = $core->fetch($rss, "title");
+						$descriptionList = $core->fetch($rss, "description");
+
+						$titles = explode("&&", $titleList);
+						$descriptions = explode("&&", $descriptionList);
 					
-					for ($x = 1; $x <= 4; $x++) {
-						echo '<h2>'.$feed['title'][$x].'</h2>';
-						echo $feed['description'][$x];
-					} 
+						for ($x = 2; $x <= 5; $x++) {
+							echo "<h2>" . $titles[$x] . "</h2>";
+							echo "<p>" . $descriptions[$x] . "</p>";
+						}
+					echo "</div>";
 
 					
 				echo '</div>';
