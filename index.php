@@ -31,8 +31,9 @@
 		
 			echo '<div id="container">';
 				echo '<div id="header">';
+					$pages->logo();				
 					echo '<div id="header_inner">';
-				
+						$pages->navigator();
 					echo '</div>';
 				echo '</div>';
 				

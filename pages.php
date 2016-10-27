@@ -54,23 +54,55 @@ class Pages {
 		
 			echo '<div class="coll-33">';
 				echo '<div class="contentMargin">';
-					echo '<h1>Nieuws</h1>';
-					$rss = $core->easy_curl("http://www.nu.nl/rss");
-					$feed['title'] = $core->fetch($rss, "title", "title");
-					$feed['description'] = $core->fetch($rss, "description", "description");
-					
-					for ($x = 1; $x <= 4; $x++) {
-						echo '<h2>'.$feed['title'][$x].'</h2>';
-						echo $feed['description'][$x];
-					} 
+					echo "<div id='news'>";
+						echo '<h1>Nieuws</h1>';
+						$rss = $core->easy_curl("http://www.nu.nl/rss");
+						
 
-					
+						$titleList = $core->fetch($rss, "title");
+						$descriptionList = $core->fetch($rss, "description");
+
+						$titles = explode("&&", $titleList);
+						$descriptions = explode("&&", $descriptionList);
+						for ($x = 2; $x <= 5; $x++) {
+							echo "<h2>" . $titles[$x] . "</h2>";
+							echo "<p>" . $descriptions[$x] . "</p>";
+						}
+					echo "</div>";
 				echo '</div>';
 			echo '</div>';
 			
 			echo '<div class="clear"></div>';
 		echo '</div>';
 		echo '<div class="clear"></div>';
+
+	}
+	
+	//logo
+	function logo(){
+		echo '<a href="index.php"><img src="images/harambe_logo.png" alt="logo"></a>';
+		
+	}
+	
+	//De navigator word op elke standaard pagina geladen aan de bovenkant.
+	function navigator(){
+
+		echo '<a href="index.php?p=kiesjeopleiding"><span>Kies je opleiding</span></a>';
+		echo '<a href="index.php?p=schoolofbusiness"><span>School of business</span></a>';
+		echo '<a href="index.php?p=schooloftechnology"><span>School of technology</span></a>';
+		echo '<a href="index.php?p=imageboard"><span>Imageboard</span></a>';
+		echo '<a href="index.php?p=contac"><span>Contact</span></a>';
+		
+		echo '<span class="dutch">';
+			echo '<a href="index.php?t=en"><span>Engels</span></a>';
+			echo '<a href="index.php?t=nl"><span>Nederlands - actief</span></a>';
+		echo '</span>';
+		
+		echo '<span class="english">';
+			echo '<a href="index.php?t=en"><span>Engels - actief</span></a>';
+			echo '<a href="index.php?t=nl"><span>Nederlands</span></a>';
+		echo '</span>';
+		
 
 	}
 	
