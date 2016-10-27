@@ -29,8 +29,6 @@ h2{
     font-size: 35px;
 }
 
-
-
 @font-face {
     font-family: shonar;
     src: url(http://www.veldin.com/r/stenden/prowebsite/fonts/shonar.ttf);
@@ -45,21 +43,6 @@ h2{
 .contentMargin{
 	margin:8px;
 	width: calc(100% - 16px);
-}
-
-#news h2{
-    font-family: Verdana;
-    color: #ff5e00;
-    font-weight: normal;
-    font-size: 30px;
-    line-height: 1;
-}
-
-#news p {
-    margin-top: 40px;
-    margin-bottom: 5px;
-    padding-bottom: 5px;
-    border-bottom: solid #ff5e00 3px;
 }
 
 /* Page containers */ 
@@ -275,6 +258,24 @@ h2{
 	background-repeat: no-repeat;
 	    background-color: #e2e2e2;
 }
+
+/* News (rss) */
+
+#news h2{
+    font-family: Verdana;
+    color: #ff5e00;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 1;
+}
+
+#news p {
+    margin-top: 40px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    border-bottom: solid #ff5e00 3px;
+}
+
 
 
 
