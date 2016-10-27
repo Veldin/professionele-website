@@ -105,32 +105,7 @@ class Pages {
 		
 
 	}
-	
-	//logo
-	function logo(){
-		echo '<a href="index.php"><img src="images/harambe_logo.png" alt="logo"></a>';
-		
-	}
-	
-	//De navigator word op elke standaard pagina geladen aan de bovenkant.
-	function navigator(){
-		echo '<a href="index.php?p=kiesjeopleiding"><span>Kies je opleiding</span></a>';
-		echo '<a href="index.php?p=schoolofbusiness"><span>School of business</span></a>';
-		echo '<a href="index.php?p=schooloftechnology"><span>School of technology</span></a>';
-		echo '<a href="index.php?p=imageboard"><span>Imageboard</span></a>';
-		echo '<a href="index.php?p=contac"><span>Contact</span></a>';
-		
-		echo '<span class="dutch">';
-			echo '<a href="index.php?t=en"><span>Engels</span></a>';
-			echo '<a href="index.php?t=nl"><span>Nederlands - actief</span></a>';
-		echo '</span>';
-		
-		echo '<span class="english">';
-			echo '<a href="index.php?t=en"><span>Engels - actief</span></a>';
-			echo '<a href="index.php?t=nl"><span>Nederlands</span></a>';
-		echo '</span>';
-	}
-	
+
 	//De footer word op elke standaard pagina geladen aan de onderkant.
 	function footer(){
 		echo 'Footer!';
