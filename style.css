@@ -29,7 +29,43 @@ body{
 #header{
 	background-color: #ff5e00;
 	width: 100%;
-	min-height: 110px;
+	min-height: 80px;
+}
+
+#header_inner{
+	width:70%;
+	margin:0 auto;
+	padding:35px;
+	text-align:center;
+}
+
+#header img{
+	float:left;
+	position:absolute;
+	margin-top:53px;
+	margin-left:240px;
+	height:184px;
+	width:160px;
+	
+}
+
+#header_inner span {
+	padding-right:4%;
+	padding-left:4%;
+	padding-top:15px;
+	padding-bottom:15px;
+	color:white;
+	font-size:18px;
+	font-family: Myanmar Text;
+}
+
+#header_inner a{
+	text-decoration:none;
+}
+
+#header_inner span:hover{
+	background-color:white;
+	color:black;
 }
 
 #headimage{

@@ -26,35 +26,11 @@
 		<?php 
 			//
 		
-			echo '<div id="container">';
-				echo '<div id="header">';
-					$pages->logo();				
-					echo '<div id="header_inner">';
-						$pages->navigator();
-					echo '</div>';
-				echo '</div>';
-				
-				echo '<div id="headimage">';
 
-				echo '</div>';
-				
-				
-				echo '<div id="content">';
-					echo '<div id="page" class="'.$core->paginaTitel(false).'">';
-						$core->load();
+					echo'<div class="contactformulier">';
+						$pages->contactformulier();
 					echo '</div>';
-				
-				
-					echo '<div id="footer">';
-						$pages->footer();
-					echo '</div>';
-				echo '</div>';
-			echo '</div>';
 		?>
 	</body>
 </html>
-
-
-
-
 

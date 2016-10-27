@@ -55,6 +55,57 @@ class Pages {
 		echo 'Footer!';
 	}
 	
+	//logo
+	function logo(){
+		echo '<a href="index.php"><img src="images/harambe_logo.png" alt="logo"></a>';
+		
+	}
+	
+	//De navigator word op elke standaard pagina geladen aan de bovenkant.
+	function navigator(){
+
+		echo '<a href="kiesjeopleiding.php"><span>Kies je opleiding</span></a>';
+		echo '<a href="schoolofbusiness.php"><span>School of business</span></a>';
+		echo '<a href="schooloftechnology.php"><span>School of technology</span></a>';
+		echo '<a href="imageboard.php"><span>Imageboard</span></a>';
+		echo '<a href="contact.php"><span>Contact</span></a>';
+
+	}
+	
+	// contactformulier
+	function contactformulier(){
+		
+	echo'<form name="form" action="#" method="post">';
+		echo'<p><span class="dutch">Naam:</span><span class="english">Name:</span><br> <input type="text" name="name"></p>';
+		echo '<p><span class="english">emailadres:</span><span class="dutch">emailadres:</span><br><input type="text" name="mail"></p>';
+		echo'<br><textarea name="text"></textarea>';
+		echo'<p><input type="submit" name="submit" value="submit"></p>';
+	echo '</form>';	
+		
+	if(isset($_POST["submit"])){
+		$text = $_POST["text"];
+		$name = $_POST["name"];		
+		$mail = $_POST["mail"];
+		if(!filter_var($mail, FILTER_VALIDATE_EMAIL) === false){
+			echo '<span class="dutch">'.$name.' ,bedankt voor de reactie. Er wordt zo spoedig mogelijk gereageerd naar '.$mail.".</span>";
+			echo '<span class="english">'.$name.' ,thanks for your response. We will respond as soon as possible to '.$mail.".</span>";
+		}
+		else{
+			echo'<span class="dutch">'.$mail.' is een ongeldig emailadres'.'</span>';
+			echo'<span class="english">'.$mail.' is not a valid emailadres'.'</span>';
+		}
+		
+	}else{
+		
+	}
+	
+
+		
+	
+		
+		
+	}
+	
 	//De notfound pagina. Deze word aangeroepen als een pagina word aangeroepen die niet bestaat.
 	function notfound(){
 		echo 'Pagina niet gevonden!';
