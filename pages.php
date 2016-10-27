@@ -91,7 +91,7 @@ class Pages {
 					echo '
 						<ul class="footerlists";>
 							<li><a href="/* link van Robin */".php;>Nederlands / Dutch</a></li>
-							<li><a href="/* link van Robin */.php";>Engels / English</a></li>
+							<li><a href="/* link van Robin */".php";>Engels / English</a></li>
 						</ul>
 						</p>';
 				echo '</div>';
@@ -99,6 +99,14 @@ class Pages {
 			echo '<div class="coll-50">';
 				
 			echo '</div>';
+		echo '</div>';
+	}
+	
+	function gallery(){
+		echo '<div class="coll-100">';
+			echo '<p>henk</p>';
+			echo '<p>hoi</p>';
+		/*sluiten div coll-100*/
 		echo '</div>';
 	}
 	
