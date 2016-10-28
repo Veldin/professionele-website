@@ -29,8 +29,6 @@ h2{
     font-size: 35px;
 }
 
-
-
 @font-face {
     font-family: shonar;
     src: url(http://www.veldin.com/r/stenden/prowebsite/fonts/shonar.ttf);
@@ -47,21 +45,6 @@ h2{
 	width: calc(100% - 16px);
 }
 
-#news h2{
-    font-family: Verdana;
-    color: #ff5e00;
-    font-weight: normal;
-    font-size: 30px;
-    line-height: 1;
-}
-
-#news p {
-    margin-top: 40px;
-    margin-bottom: 5px;
-    padding-bottom: 5px;
-    border-bottom: solid #ff5e00 3px;
-}
-
 /* Page containers */ 
 
 #container{
@@ -74,7 +57,7 @@ h2{
 #header{
 	background-color: #ff5e00;
 	width: 100%;
-	min-height: 110px;
+	min-height: 80px;
 }
 
 #headimage{
@@ -100,6 +83,34 @@ h2{
     background-color: #fbfafc;
 }
 
+.galerij .coll-90{
+    width: calc(90% - 4px);
+    height: 300px;
+    border: 2px solid blue;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.galerij .vert-90{
+    height: calc(90% - 4px);
+    width: 100%;
+    float: left;
+    position: relative;
+    border-bottom: 2px solid blue;
+    border-radius: 20px;
+    background-size: cover;
+}
+
+.galerij .vert-10{
+    height: 10%;
+    width: 100%;
+    float:left;
+}
+
+.galerij .vert-10 p{
+    text-align: center;
+}
+
 #footer{
 	max-width: 1400px;
 	margin: 0 auto;
@@ -115,6 +126,11 @@ h2{
     position: relative;
 }
 
+.coll-90{
+    width: 90%;
+    float: left;
+    position: relative;
+}
 .coll-80{
 	width: 80%;
     float: left;
@@ -169,8 +185,16 @@ h2{
     position: relative;
 }
 
+.coll-5{
+    width: 5%;
+    min-height: 1px;
+    float: left;
+    position: relative;
+}
+
 @media only screen and (max-width: 900px) {
 	.coll-100,
+    .coll-90,
 	.coll-80,
 	.coll-75,
 	.coll-60,
@@ -179,8 +203,11 @@ h2{
 	.coll-40,
 	.coll-33,
 	.coll-25,
-	.coll-20{
+	.coll-20.
+    .coll-5{
 		width: 100%;
+    }
+    }
 	}
 }
 
@@ -274,6 +301,68 @@ h2{
     background-position: center center;
 	background-repeat: no-repeat;
 	    background-color: #e2e2e2;
+}
+
+/* News (rss) */
+
+#news h2{
+    font-family: Verdana;
+    color: #ff5e00;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 1;
+}
+
+#news p {
+    margin-top: 40px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    border-bottom: solid #ff5e00 3px;
+}
+
+/* nav bar */
+#header img{
+	float:left;
+	position:absolute;
+	margin-top:53px;
+	margin-left:240px;
+	height:184px;
+	width:160px;
+	
+}
+
+#header_inner{
+	width:70%;
+	margin:0 auto;
+	padding:35px;
+	text-align:center;
+}
+
+#header_inner span {
+	padding-right:4%;
+	padding-left:4%;
+	padding-top:15px;
+	padding-bottom:15px;
+	color:white;
+	font-size:18px;
+	font-family: Myanmar Text;
+}
+
+#header_inner a{
+	text-decoration:none;
+}
+
+#header_inner span:hover{
+	background-color:white;
+	color:black;
+}
+
+#headimage{
+	background-color: gray;
+	width: 100%;
+	min-height: 550px;
+	background-image: url("images/slide2.png");
+	background-size: cover;
 }
 
 

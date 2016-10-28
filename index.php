@@ -8,6 +8,8 @@
 	$core = new Core;
 	$pages = new Pages;
 
+	//rss = $core->easy_curl("http://www.nu.nl/rss");
+	//echo $rss;
 	
 	
 ?>
@@ -29,8 +31,9 @@
 		
 			echo '<div id="container">';
 				echo '<div id="header">';
+					$pages->logo();				
 					echo '<div id="header_inner">';
-				
+						$pages->navigator();
 					echo '</div>';
 				echo '</div>';
 				

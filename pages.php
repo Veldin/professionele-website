@@ -64,14 +64,11 @@ class Pages {
 
 						$titles = explode("&&", $titleList);
 						$descriptions = explode("&&", $descriptionList);
-					
 						for ($x = 2; $x <= 5; $x++) {
 							echo "<h2>" . $titles[$x] . "</h2>";
 							echo "<p>" . $descriptions[$x] . "</p>";
 						}
 					echo "</div>";
-
-					
 				echo '</div>';
 			echo '</div>';
 			
@@ -81,6 +78,129 @@ class Pages {
 
 	}
 	
+	//logo
+	function logo(){
+		echo '<a href="index.php"><img src="images/harambe_logo.png" alt="logo"></a>';
+		
+	}
+	
+	//De navigator word op elke standaard pagina geladen aan de bovenkant.
+	function navigator(){
+
+		echo '<a href="index.php?p=kiesjeopleiding"><span>Kies je opleiding</span></a>';
+		echo '<a href="index.php?p=schoolofbusiness"><span>School of business</span></a>';
+		echo '<a href="index.php?p=schooloftechnology"><span>School of technology</span></a>';
+		echo '<a href="index.php?p=imageboard"><span>Imageboard</span></a>';
+		echo '<a href="index.php?p=contac"><span>Contact</span></a>';
+		
+		echo '<span class="dutch">';
+			echo '<a href="index.php?t=en"><span>Engels</span></a>';
+			echo '<a href="index.php?t=nl"><span>Nederlands - actief</span></a>';
+		echo '</span>';
+		
+		echo '<span class="english">';
+			echo '<a href="index.php?t=en"><span>Engels - actief</span></a>';
+			echo '<a href="index.php?t=nl"><span>Nederlands</span></a>';
+		echo '</span>';
+		
+
+	}
+	
+	function galerij(){
+		
+		//Gallerij
+		//Geeft weer hoeveel bestanden zich bevinden in de directory in de vorm van een array.
+		$dir = 'images/submitted/';
+		$array = scandir($dir);
+		//Het aantal bestanden weergegeven in enkel een nummer.
+		$count = count($array) - 2;
+		
+		//echo $count . "<br>";
+
+
+		//Het los weergeven van elke afbeeldin inclusief index nummer.
+		$files = '';
+		foreach($array as $file){
+			$files = $file . '@@' . $files; 
+		}
+		//echo $files;
+
+		$picPaths = explode('@@',$files);
+		$paths = '';
+
+		//Returns index number.
+		$indexes = "";
+		$picTitles = "";
+		$locaties = "";
+		for($a = 0; $a < $count; $a++){
+			//echo $picPaths[$a] . "<br>";
+				$picData = explode('&&',$picPaths[$a]);
+				$index = $picData[0];
+				$path = $dir . $index . "&&" . $picData[1];
+				$name = $picData[1];
+
+				$titles = explode('.', $name);
+				$title = $titles[0];
+
+
+				//Array_merge
+				//Array_chunk
+				$indexes = $index . "@@" . $indexes;
+
+				
+
+				
+				$picTitles = $title . "@@" . $picTitles;
+				
+			
+
+				$locaties = $path . "@@" . $locaties;
+				
+				//echo $index . "   -   " . $title . "   |-|   ". $path . "<br>";
+		}
+
+		$number = explode('@@', $indexes);
+		$picNamen = explode('@@', $picTitles);
+		$locs = explode('@@', $locaties);
+
+		
+		for($y = 0; $y < $count; $y++){
+			
+			//echo $number[$y] ."<br>";
+			//echo $picNamen[$y] ."<br>";
+			//echo $locs[$y] ."<br>";
+		}
+	
+			//Beginnen echoen galerij items.
+				//Voor elke pagina 3 rijen echoen.
+$counter = 0;
+			for ($x = 0; $x < 3; $x++){
+				echo '<div class="coll-100">';
+				//Voor elke rij 3 foto's echoen.
+				$i = 0;
+				for($i = 0; $i < 3; $i++){
+					echo '<div class="coll-33">';
+						echo '<div class="coll-5">';
+						echo '</div>';
+
+						echo'<div class="coll-90">';
+							echo '<div class="vert-90" style="background-image: url('.$locs[$counter].')" alt="'.$picNamen[$counter].'">';
+							echo '</div>';
+							echo '<div class="vert-10">';
+								echo '<p>'. $picNamen[$counter] .'</p>';
+							echo '</div>';
+						echo '</div>';
+
+						echo '<div class="coll-5">';
+						echo '</div>';
+					echo '</div>';
+					$counter++;
+				}
+				echo '</div>';
+				echo '<div class="clear"></div>';
+			
+		}
+	}
 	//De footer word op elke standaard pagina geladen aan de onderkant.
 	function footer(){
 		echo 'Footer!';
