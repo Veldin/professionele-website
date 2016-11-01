@@ -110,11 +110,29 @@ class Pages {
 	//De navigator word op elke standaard pagina geladen aan de bovenkant.
 	function navigator(){
 		echo '<ul id="navigator">';
-			echo '<li><a href="index.php?p=home">Kies je opleiding</a></li>';
-			echo '<li><a href="index.php?p=home">School of Business</a></li>';
-			echo '<li><a href="index.php?p=home">School of Technology</a></li>';
-			echo '<li><a href="index.php?p=home">Imageboard</a></li>';
-			echo '<li><a href="index.php?p=home">Contact</a></li>';
+		
+			echo '<li><a href="index.php?p=home">
+				<span class="dutch">Kies je opleiding</span>
+				<span class="english">Choose your program</span>
+			</a></li>';
+			
+			echo '<li><a href="index.php?p=School_of_Business">
+				<span>School of Business</span>
+			</a></li>';
+			
+			echo '<li><a href="index.php?p=School_of_Technology">
+				<span>School of Technology</span>
+			</a></li>';
+			
+			echo '<li><a href="index.php?p=galerij">
+				<span class="dutch">Gallerij</span>
+				<span class="english">Gallery</span>
+			</a></li>';
+
+			echo '<li><a href="index.php?p=contactformulier">
+				<span>Contact</span>
+			</a></li>';
+
 		echo '</ul>';
 		echo '<div class="clear"></div>';
 		
@@ -320,7 +338,119 @@ class Pages {
 	}
 	//De footer word op elke standaard pagina geladen aan de onderkant.
 	function footer(){
-		echo 'Footer!';
+		echo '<div class="coll-100 contentMargin">';
+			echo '<div class="coll-50">';
+				echo '<div class="coll-50">';
+					echo '<p class="lijstjes dutch">Studies bij het Harambe College';
+					echo '
+						<ul class="footerlists dutch">
+							<li class="dutch"><a href="index.php?p=School_of_Business";>School of Business</a></li>
+							<li class="dutch"><a href="index.php?p=School_of_Technology";>School of Technology</a></li>
+							<br>
+						</ul>
+						</p>';
+					echo '<p class="lijstjes english">Studies at Harambe College
+						<ul class="footerlists english">
+							<li class="english"><a href="index.php?p=School_of_Business";>School of Business</a></li>
+							<li class="english"><a href="index.php?p=School_of_Technology";>School of Technology</a></li>
+							<br>
+						</ul>
+						</p>';
+						
+					echo '<p class="lijstjes dutch";>Afstuderen bij het Harambe College';
+					echo '
+						<ul class="footerlists dutch";>
+							<li class="dutch"><a href="index.php?p=bedrijfs_economie";>Bedrijfs Economie</a></li>
+							<li class="dutch"><a href="index.php?p=Business_Information_Management";>Business Information Management</a></li>
+							<li class="dutch"><a href="index.php?p=Civiele_Techniek_en_Waterbouw";>Civiele Techniek en Waterbouw</a></li>
+							<li class="dutch"><a href="index.php?p=Informatica";>Informatica</a></li>
+						</ul>
+						</p>';
+					echo '<p class="lijstjes english";>Graduate at Harambe College';
+					echo '
+						<ul class="footerlists english";>
+							<li class="english"><a href="index.php?p=bedrijfs_economie";>Business Economy</a></li>
+							<li class="english"><a href="index.php?p=Business_Information_Management";>Business Information Management</a></li>
+							<li class="english"><a href="index.php?p=Civiele_Techniek_en_Waterbouw";>Civil Tech and Engineering</a></li>
+							<li class="english"><a href="index.php?p=Informatica";>IT</a></li>
+						</ul>
+						</p>';
+				echo '</div>';
+				echo '<div class="coll-50">';
+					echo '<p class="lijstjes dutch";>Organisatie';
+					echo ' 
+						<ul class="footerlists dutch";>
+							<li class="dutch"><a href="index.php?p=about";>Over het Harambe College</a></li>
+							<li class="dutch"><a href="index.php?p=contact";>Contact Formulier</a></li>
+							<br>
+						</ul>
+						</p>';
+					echo '<p class="lijstjes english";>Organisation';
+					echo ' 
+						<ul class="footerlists english";>
+							<li class="english"><a href="index.php?p=about";>About Harambe College</a></li>
+							<li class="english"><a href="index.php?p=contact";>Contact</a></li>
+							<br>
+						</ul>
+						</p>';
+						
+					echo '<p class="lijstjes dutch";>Kies taal / Switch languages';
+					echo '
+						<ul class="footerlists dutch";>
+							<li class="dutch"><a href="index.php?t=nl";>Nederlands / Dutch</a></li>
+							<li class="dutch"><a href="index.php?t=en";>Engels / English</a></li>
+						</ul>
+						</p>';
+					echo '<p class="lijstjes english";>Kies taal / Switch languages';
+					echo '
+						<ul class="footerlists english";>
+							<li class="english"><a href="index.php?t=nl";>Nederlands / Dutch</a></li>
+							<li class="english"><a href="index.php?t=en";>Engels / English</a></li>
+						</ul>
+						</p>';
+						/*sluiten div coll-100*/
+				echo '</div>';
+			echo '</div>';
+			echo '<div class="coll-50">';
+				echo '<span><a href="http://www.facebook.com/"><img class="smlogos" src="facebooklogo.png" alt="facebook logo"></a></span>
+				<span><a href="http://www.twitter.com/"><img class="smlogos" src="twitterlogo.png" alt="twitter logo"></a></span>
+				<span><a href="http://www.instagram.com/"><img  class="smlogos" src="instagramlogo.png" alt="instagram logo"></a></span>';
+				/*sluiten div coll-50*/
+			echo '</div>';
+			/*sluiten div coll-100*/
+		echo '</div>';
+		echo '<div class="clear"></div>';
+	}
+	
+	function imageuploading(){
+		global $core;             
+                
+		
+		echo '<div class="coll-100">';
+			echo '<div id="breadcrumbs" class="contentMargin">';
+				echo $core->breadcrumbs();
+				echo '<h1>Upload images</h1>';
+			echo '</div>';
+		echo '</div>';
+		
+		echo '<div class="clear"></div>';
+		
+		echo '<div class="coll-100">';
+			echo '<div class="contentMargin">';
+				echo '<form action="#" method="post" enctype="multipart/form-data">';
+					echo '<span class="dutch">Selecteer het plaatje dat je wil uploaden:<br></span>';
+					echo '<span class="english">Select image to upload:<br></span>';
+					echo '<input type="file" name="fileToUpload" id="fileToUpload"><br>';
+					echo '<span class="dutch">Selecteer titel:<br></span>';
+					echo '<span class="english">select title:<br></span>';
+					echo '<input type="text" name="title" required><br>';
+					echo '<input type="submit" value="Upload Image" name="submit">';
+                 echo '</form>';
+                 echo '<br>' . $core->imageuploading();
+				
+			echo '</div>';
+		echo '</div>';
+		echo '<div class="clear"></div>';
 	}
 	
 	//De notfound pagina. Deze word aangeroepen als een pagina word aangeroepen die niet bestaat.
