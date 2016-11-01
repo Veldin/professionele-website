@@ -135,6 +135,81 @@ class Pages {
 		echo '</span>'; */
 		
 	}
+        
+        function imageuploading(){
+		global $core;             
+                
+		echo '<div class="coll-100">';
+			echo '<div class="coll-33">';
+				echo '<div class="blok contentMargin business">';
+				echo '</div>';
+			echo '</div>';
+			
+			echo '<div class="coll-33">';
+				echo '<div class="blok contentMargin technology">';
+				echo '</div>';
+			echo '</div>';
+			
+			echo '<div class="coll-33">';
+				echo '<div class="blok contentMargin">';
+					echo '<span>Harambe</span>';
+					echo '<span>College</span>';
+					echo '<span>Info@Harambe-College.com</span>';
+					echo '<span>058 244 14 41</span>';
+				echo '</div>';
+			echo '</div>';
+			
+			echo '<div class="clear"></div>';
+		echo '</div>';
+		
+		echo '<div class="clear"></div>';
+		
+		echo '<div class="coll-100">';
+			echo '<div id="breadcrumbs" class="contentMargin">';
+				echo $core->breadcrumbs();
+			echo '</div>';
+		echo '</div>';
+		
+		echo '<div class="clear"></div>';
+		
+		echo '<div class="coll-100">';
+			echo '<div class="coll-66">';
+				echo '<div class="contentMargin">';
+					echo '<form action="#" method="post" enctype="multipart/form-data">';
+                                            echo '<span class="dutch">Selecteer het plaatje dat je wil uploaden:<br></span>';
+                                            echo '<span class="english">Select image to upload:<br></span>';
+                                            echo '<input type="file" name="fileToUpload" id="fileToUpload"><br>';
+                                            echo '<span class="dutch">Selecteer titel:<br></span>';
+                                            echo '<span class="english">select title:<br></span>';
+                                            echo '<input type="text" name="title" required><br>';
+                                            echo '<input type="submit" value="Upload Image" name="submit">';
+                                        echo '</form>';
+                                        echo '<br>' . $core->imageuploading();
+				echo '</div>';
+			echo '</div>';
+		
+			echo '<div class="coll-33">';
+				echo '<div class="contentMargin">';
+					echo "<div id='news'>";
+						echo '<h1>Nieuws</h1>';
+						$rss = $core->easy_curl("http://www.nu.nl/rss");
+						
+						$titleList = $core->fetch($rss, "title");
+						$descriptionList = $core->fetch($rss, "description");
+						$titles = explode("&&", $titleList);
+						$descriptions = explode("&&", $descriptionList);
+						for ($x = 2; $x <= 5; $x++) {
+							echo "<h2>" . $titles[$x] . "</h2>";
+							echo "<p>" . $descriptions[$x] . "</p>";
+						}
+					echo "</div>";
+				echo '</div>';
+			echo '</div>';
+			
+			echo '<div class="clear"></div>';
+		echo '</div>';
+		echo '<div class="clear"></div>';
+	}
 	
 	function galerij(){
 		global $core;

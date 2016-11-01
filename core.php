@@ -182,6 +182,67 @@ class Core {
         //returns the stripped content in a string.
         return $list;
 
+    }        
+
+    function imageuploading() {
+        global $core;
+        $target_dir = "images\uploads\\";  
+        // Check if image file is an actual image or fake image
+        if(isset($_POST["submit"])) {
+            $check = getimagesize($_FILES["fileToUpload"]["tmp_name"]);
+            if($check !== false) {
+                echo "File is an image - " . $check["mime"] . ".<br>";
+                if (isset($_FILES["fileToUpload"])) {
+                    $target_file = $target_dir . basename($_FILES["fileToUpload"]["name"]);
+                    $imageFileType = pathinfo($target_file, PATHINFO_EXTENSION);
+                    if ($core->imagecheck($imageFileType , $target_file) == true) {
+                        move_uploaded_file($_FILES["fileToUpload"]["tmp_name"], $target_file);
+                        //call rename function
+                        $core->renameimage($target_file, $target_dir, $imageFileType);
+                        echo "File was uploaded";
+                    } else {
+                        echo "File was not uploaded";
+                    }
+                }         
+            } else {
+                echo "File is not an image.";
+                return;
+            }
+        }
     }
+     
+    function imagecheck($imageFileType, $target_file) { 
+        if ($_FILES["fileToUpload"]["size"] > 500000) {
+            echo "Sorry, your file is too large.<br>";
+            return false;
+        }    
+        if($imageFileType != "jpg" && $imageFileType != "png" && $imageFileType != "jpeg" && $imageFileType != "gif" ) {
+            echo "Sorry, only JPG, JPEG, PNG & GIF files are allowed.<br>";
+            return false;
+        } else {
+            return true;
+        }
+    }
+    
+    function renameimage($target_file, $target_dir, $imageFileType) {
+        $title = htmlspecialchars($_POST["title"]);
+        $dirarray = scandir("images\submitted\\");
+        natsort($dirarray);
+        $dirarray = array_values($dirarray);
+        if (array_key_exists(2, $dirarray)) {
+            $number = end($dirarray);
+            if (count($dirarray) >= 13 ) {
+                $number = substr($number, 0, 2) + 1;
+                rename($target_file, $target_dir . $number . "&&" . $title . "." . $imageFileType);
+            }
+            else {
+                $number = substr($number, 0, 1) + 1;
+                rename($target_file, $target_dir . $number . "&&" . $title . "." . $imageFileType);
+            }
+        } else {
+            rename($target_file, $target_dir . "1&&" . $title . "." . $imageFileType);
+        }
+        return;
+    }   
 }
 ?>
