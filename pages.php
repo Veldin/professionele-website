@@ -1,6 +1,5 @@
 <?php
 //Een class met al mijn paginas als functies
-
 class Pages {  
 	//Hoofd pagina
 	function home(){
@@ -58,10 +57,8 @@ class Pages {
 						echo '<h1>Nieuws</h1>';
 						$rss = $core->easy_curl("http://www.nu.nl/rss");
 						
-
 						$titleList = $core->fetch($rss, "title");
 						$descriptionList = $core->fetch($rss, "description");
-
 						$titles = explode("&&", $titleList);
 						$descriptions = explode("&&", $descriptionList);
 						for ($x = 2; $x <= 5; $x++) {
@@ -75,11 +72,10 @@ class Pages {
 			echo '<div class="clear"></div>';
 		echo '</div>';
 		echo '<div class="clear"></div>';
-
 	}
 	
 	// contactformulier
-	function contactformulier(){
+	function contactformulier(){	
 		echo'<form name="form" action="#" method="post">';
 			echo'<p><span class="dutch">Naam:</span><span class="english">Name:</span><br> <input type="text" name="name"></p>';
 			echo '<p><span class="english">emailadres:</span><span class="dutch">emailadres:</span><br><input type="text" name="mail"></p>';
@@ -88,10 +84,9 @@ class Pages {
 		echo '</form>';	
 			
 		if(isset($_POST["submit"])){
-			$text = htmlspecialchars($_POST["text"]);
-			$name = htmlspecialchars($_POST["name"]);		
-			$mail = htmlspecialchars($_POST["mail"]);
-			
+			$text = $_POST["text"];
+			$name = $_POST["name"];		
+			$mail = $_POST["mail"];
 			if(!filter_var($mail, FILTER_VALIDATE_EMAIL) === false){
 				echo '<span class="dutch">'.$name.' ,bedankt voor de reactie. Er wordt zo spoedig mogelijk gereageerd naar '.$mail.".</span>";
 				echo '<span class="english">'.$name.' ,thanks for your response. We will respond as soon as possible to '.$mail.".</span>";
@@ -114,7 +109,6 @@ class Pages {
 	
 	//De navigator word op elke standaard pagina geladen aan de bovenkant.
 	function navigator(){
-
 		echo '<ul id="navigator">';
 			echo '<li><a href="index.php?p=home">Kies je opleiding</a></li>';
 			echo '<li><a href="index.php?p=home">School of Business</a></li>';
@@ -140,7 +134,6 @@ class Pages {
 			echo '<a href="index.php?t=nl"><span>Nederlands</span></a>';
 		echo '</span>'; */
 		
-
 	}
 	
 	function galerij(){
@@ -152,33 +145,25 @@ class Pages {
 		$array = scandir($dir);
 		//Het aantal bestanden weergegeven in enkel een nummer.
 		$count = count($array) - 2;
-
 		//Het los weergeven van elke afbeeldin inclusief index nummer.
 		$files = '';
 		foreach($array as $file){
 			$files = $file . '@@' . $files; 
 		}
 		//echo $files;
-
 		$picPaths = explode('@@',$files);
 		$paths = '';
-
-
 		for($a = 0; $a < $count; $a++){
 				$picData = explode('&&',$picPaths[$a]);
 				$index = $picData[0];
 				$path = $dir . $index . "&&" . $picData[1];
 				$name = $picData[1];
-
 				$titles = explode('.', $name);
 				$title = $titles[0];
-
 				$images[$index]['title'] = $title;
 				$images[$index]['locaties'] = $path;
 	
 		}
-
-
 		//The images are numberd up, so the heigher the number the newer the image, as we want newest first!
 		ksort($images);
 		$images = array_values($images);
@@ -317,7 +302,6 @@ class Pages {
 					echo '<div class="coll-33">';
 						echo '<div class="coll-5">';
 						echo '</div>';
-
 						echo'<div class="coll-90">';
 							echo '<div class="vert-90" style="background-image: url('.$locs[$counter].')" alt="'.$picNamen[$counter].'">';
 							echo '</div>';
@@ -325,7 +309,6 @@ class Pages {
 								echo '<p>'. $picNamen[$counter] .'</p>';
 							echo '</div>';
 						echo '</div>';
-
 						echo '<div class="coll-5">';
 						echo '</div>';
 					echo '</div>';
@@ -335,7 +318,6 @@ class Pages {
 				echo '<div class="clear"></div>';
 		} */
 	}
-
 	//De footer word op elke standaard pagina geladen aan de onderkant.
 	function footer(){
 		echo 'Footer!';
@@ -345,10 +327,8 @@ class Pages {
 	function notfound(){
 		echo 'Pagina niet gevonden!';
 	}
-
 	function test(){
 		echo "test";
 	}
-
 }
 ?>
