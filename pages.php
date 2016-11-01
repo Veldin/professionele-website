@@ -60,45 +60,83 @@ class Pages {
 		echo '<div class="coll-100">';
 			echo '<div class="coll-50">';
 				echo '<div class="coll-50">';
-					echo '<p class="lijstjes";>Studies bij het Harambe College';
+					echo '<p class="lijstjes dutch">Studies bij het Harambe College';
 					echo '
-						<ul class="footerlists";>
-							<li><a href="School_of_Business.php";>School of Business</a></li>
-							<li><a href="School_of_Technology.php";>School of Technology</a></li>
+						<ul class="footerlists dutch">
+							<li class="dutch"><a href="index.php?p=School_of_Business";>School of Business</a></li>
+							<li class="dutch"><a href="index.php?p=School_of_Technology";>School of Technology</a></li>
+							<br>
 						</ul>
-						<br>
 						</p>';
-					echo '<p class="lijstjes";>Afstuderen bij het Harambe College';
+					echo '<p class="lijstjes english">Studies at Harambe College
+						<ul class="footerlists english">
+							<li class="english"><a href="index.php?p=School_of_Business";>School of Business</a></li>
+							<li class="english"><a href="index.php?p=School_of_Technology";>School of Technology</a></li>
+							<br>
+						</ul>
+						</p>';
+						
+					echo '<p class="lijstjes dutch";>Afstuderen bij het Harambe College';
 					echo '
-						<ul class="footerlists";>
-							<li><a href="bedrijfs_economie.php";>Bedrijfs Economie</a></li>
-							<li><a href="Business_Information_Management.php";>Business Information Management</a></li>
-							<li><a href="Civiele_Techniek_en_Waterbouw.php";>Civiele Techniek en Waterbouw</a></li>
-							<li><a href="Informatica.php";>Informatica</a></li>
+						<ul class="footerlists dutch";>
+							<li class="dutch"><a href="index.php?p=bedrijfs_economie";>Bedrijfs Economie</a></li>
+							<li class="dutch"><a href="index.php?p=Business_Information_Management";>Business Information Management</a></li>
+							<li class="dutch"><a href="index.php?p=Civiele_Techniek_en_Waterbouw";>Civiele Techniek en Waterbouw</a></li>
+							<li class="dutch"><a href="index.php?p=Informatica";>Informatica</a></li>
+						</ul>
+						</p>';
+					echo '<p class="lijstjes english";>Graduate at Harambe College';
+					echo '
+						<ul class="footerlists english";>
+							<li class="english"><a href="index.php?p=bedrijfs_economie";>Business Economy</a></li>
+							<li class="english"><a href="index.php?p=Business_Information_Management";>Business Information Management</a></li>
+							<li class="english"><a href="index.php?p=Civiele_Techniek_en_Waterbouw";>Civil Tech and Engineering</a></li>
+							<li class="english"><a href="index.php?p=Informatica";>IT</a></li>
 						</ul>
 						</p>';
 				echo '</div>';
 				echo '<div class="coll-50">';
-					echo '<p class="lijstjes";>Organisatie';
+					echo '<p class="lijstjes dutch";>Organisatie';
 					echo ' 
-						<ul class="footerlists";>
-							<li><a href="Over_het_Harambe_College.php";>Over het Harambe College</a></li>
-							<li><a href="Contact_Formulier.php";>Contact Formulier</a></li>
+						<ul class="footerlists dutch";>
+							<li class="dutch"><a href="index.php?p=about";>Over het Harambe College</a></li>
+							<li class="dutch"><a href="index.php?p=contact";>Contact Formulier</a></li>
+							<br>
 						</ul>
-						<br>
 						</p>';
-					echo '<p class="lijstjes";>Kies taal / Switch languages';
+					echo '<p class="lijstjes english";>Organisation';
+					echo ' 
+						<ul class="footerlists english";>
+							<li class="english"><a href="index.php?p=about";>About Harambe College</a></li>
+							<li class="english"><a href="index.php?p=contact";>Contact</a></li>
+							<br>
+						</ul>
+						</p>';
+						
+					echo '<p class="lijstjes dutch";>Kies taal / Switch languages';
 					echo '
-						<ul class="footerlists";>
-							<li><a href="/* link van Robin */".php;>Nederlands / Dutch</a></li>
-							<li><a href="/* link van Robin */".php";>Engels / English</a></li>
+						<ul class="footerlists dutch";>
+							<li class="dutch"><a href="index.php?t=nl";>Nederlands / Dutch</a></li>
+							<li class="dutch"><a href="index.php?t=en";>Engels / English</a></li>
 						</ul>
 						</p>';
+					echo '<p class="lijstjes english";>Kies taal / Switch languages';
+					echo '
+						<ul class="footerlists english";>
+							<li class="english"><a href="index.php?t=nl";>Nederlands / Dutch</a></li>
+							<li class="english"><a href="index.php?t=en";>Engels / English</a></li>
+						</ul>
+						</p>';
+						/*sluiten div coll-100*/
 				echo '</div>';
 			echo '</div>';
 			echo '<div class="coll-50">';
-				
+				echo '<span><a href="http://www.facebook.com/"><img class="smlogos" src="facebooklogo.png" alt="facebook logo"></a></span>
+				<span><a href="http://www.twitter.com/"><img class="smlogos" src="twitterlogo.png" alt="twitter logo"></a></span>
+				<span><a href="http://www.instagram.com/"><img  class="smlogos" src="instagramlogo.png" alt="instagram logo"></a></span>';
+				/*sluiten div coll-50*/
 			echo '</div>';
+			/*sluiten div coll-100*/
 		echo '</div>';
 	}
 	
