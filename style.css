@@ -40,11 +40,6 @@ h2{
 	clear: both;
 }
 
-.contentMargin{
-	margin:8px;
-	width: calc(100% - 16px);
-}
-
 /* Page containers */ 
 
 #container{
@@ -57,7 +52,7 @@ h2{
 #header{
 	background-color: #ff5e00;
 	width: 100%;
-	min-height: 80px;
+	min-height: 120px;
 }
 
 #headimage{
@@ -93,61 +88,78 @@ h2{
 
 /* coll */ 
 .coll-100{
+	min-height: 1px;
 	width: 100%;
     float: left;
     position: relative;
 }
 
 .coll-80{
+	min-height: 1px;
 	width: 80%;
     float: left;
     position: relative;
 }
 
 .coll-75{
+	min-height: 1px;
 	width: 25%;
     float: left;
     position: relative;
 }
 
 .coll-60{
+	min-height: 1px;
 	width: 60%;
     float: left;
     position: relative;
 }
 
 .coll-66{
+	min-height: 1px;
 	width: 66.66%;
     float: left;
     position: relative;
 }
 
 .coll-50{
+	min-height: 1px;
 	width: 50%;
     float: left;
     position: relative;
 }
 
 .coll-40{
+	min-height: 1px;
 	width: 40%;
     float: left;
     position: relative;
 }
 
 .coll-33{
+	min-height: 1px;
 	width: 33.33%;
     float: left;
     position: relative;
 }
 
 .coll-25{
+	min-height: 1px;
 	width: 25%;
     float: left;
     position: relative;
 }
 
 .coll-20{
+	min-height: 1px;
 	width: 20%;
+    float: left;
+    position: relative;
+}
+
+.coll-5{
+	min-height: 1px;
+	width: 5%;
     float: left;
     position: relative;
 }
@@ -162,7 +174,8 @@ h2{
 	.coll-40,
 	.coll-33,
 	.coll-25,
-	.coll-20{
+	.coll-20,
+	.coll-5{
 		width: 100%;
 	}
 }
@@ -277,51 +290,91 @@ h2{
 }
 
 /* nav bar */
-#header img{
-	float:left;
-	position:absolute;
-	margin-top:53px;
-	margin-left:240px;
-	height:184px;
-	width:160px;
-	
-}
-
 #header_inner{
-	width:70%;
+	max-width: 1400px;
 	margin:0 auto;
-	padding:35px;
 	text-align:center;
+	position: relative;
 }
 
-#header_inner span {
-	padding-right:4%;
-	padding-left:4%;
-	padding-top:15px;
-	padding-bottom:15px;
-	color:white;
-	font-size:18px;
-	font-family: Myanmar Text;
+#header_image{
+    position: absolute;
+    left: 0px;
+    width: 17%;
+    top: 50%;
+    height: 500px;
+    background-color: green;
+    background: url(images/harambe_logo.png) no-repeat;
+    background-size: contain;
 }
 
-#header_inner a{
-	text-decoration:none;
+/* nav bar */
+#header_inner #navigator{
+	margin-left: 15%;
+	list-style-type: none;
+	
+	background-color: white;
+}
+#header_inner #navigator li{
+    float: left;
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 25px;
 }
 
-#header_inner span:hover{
-	background-color:white;
-	color:black;
-}
-
-#headimage{
-	background-color: gray;
-	width: 100%;
-	min-height: 550px;
-	background-image: url("images/slide2.png");
-	background-size: cover;
+#header_inner #navigator li a{
+	color: white;
+    text-decoration: none;
 }
 
 
+/* galerij */
 
+.galerij .control{
+	width: 33.33%;
+    float: left;
+    position: relative;
+	min-height: 1px;
+	text-align: center;
+}
+
+.galerij .coll-90{
+    width: calc(90% - 4px);
+    height: 300px;
+    border: 2px solid blue;
+    border-radius: 20px;
+    margin-top: 10px;
+	margin: 0 auto;
+}
+
+.galerij .vert-90{
+    height: calc(90% - 4px);
+    width: 100%;
+    float: left;
+    position: relative;
+    border-bottom: 2px solid blue;
+    border-radius: 20px;
+    background-size: cover;
+	background-position: center center;
+}
+
+.galerij .vert-10{
+    height: 10%;
+    width: 100%;
+    float:left;
+}
+
+.galerij .vert-10 p{
+    text-align: center;
+}
+
+
+/* global content margin! */
+
+.contentMargin{
+	margin:8px;
+	width: calc(100% - 16px);
+}
 
 

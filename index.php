@@ -30,9 +30,9 @@
 			//
 		
 			echo '<div id="container">';
-				echo '<div id="header">';
-					$pages->logo();				
+				echo '<div id="header">';		
 					echo '<div id="header_inner">';
+						echo '<div id="header_image"></div>';
 						$pages->navigator();
 					echo '</div>';
 				echo '</div>';
