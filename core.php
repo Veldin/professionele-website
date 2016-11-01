@@ -233,7 +233,8 @@ class Core {
     }
     
     function renameimage($target_file, $target_dir, $imageFileType) {
-        $title = htmlspecialchars($_POST["title"]);
+        $output = htmlspecialchars($_POST["title"]);
+        $title = str_replace(" ","_", $output);
         $dirarray = scandir("images/submitted");
         natsort($dirarray);
         $dirarray = array_values($dirarray);

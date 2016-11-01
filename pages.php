@@ -177,7 +177,9 @@ class Pages {
 				$path = $dir . $index . "&&" . $picData[1];
 				$name = $picData[1];
 				$titles = explode('.', $name);
-				$title = $titles[0];
+				$titas = $titles[0];
+				$title = str_replace("_"," ", $titas);
+				$title = ucfirst($title);
 				$images[$index]['title'] = $title;
 				$images[$index]['locaties'] = $path;
 	
