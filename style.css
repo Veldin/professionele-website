@@ -394,6 +394,48 @@ h2{
   content: '';
 }
 
+/* Footer */
+#footer .footerlists {
+	color: white;
+}
+
+#footer .lijstjes {
+	color: white;
+}
+
+#footer .smlogos {
+	padding: 5px;
+	float: right;
+	width: 50px;
+	height: 50px;
+}
+
+#footer ul {
+    list-style: none;
+    padding-bottom: 20px;
+    margin: 5px;
+	color: white;
+	padding: 5px;
+}
+
+#footer li {
+    padding-left: 16px;
+	color: white;
+	padding: 5px;
+}
+
+#footer li:before {
+    content: ">";
+    padding-right: 8px;
+	color: white;
+}
+
+#footer a{
+	text-decoration: none;
+	color: white;
+}
+
+
 /* global content margin! */
 
 .contentMargin{
