@@ -330,44 +330,39 @@ h2{
 
 
 /* galerij */
-
 .galerij .control{
-    width: 33.33%;
-    float: left;
-    position: relative;
-    min-height: 1px;
-    text-align: center;
+	width: 33.33%;
+	float: left;
+	position: relative;
+	min-height: 1px;
+	text-align: center;
 }
 
 .galerij .coll-90{
-    width: calc(90% - 4px);
-    height: 300px;
-    border: 2px solid #ff5e00;
-    border-radius: 20px;
-    margin-top: 10px;
-    margin: 0 auto;
+	width: calc(90% - 4px);
+	height: 300px;
+	border: 2px solid #ff5e00;
+	border-radius: 20px;
+	margin-top: 10px;
+	margin: 0 auto;
 }
 
 .galerij .vert-90{
-    height: calc(90% - 4px);
-    width: 100%;
-    float: left;
-    position: relative;
-    border-bottom: 2px solid #ff5e00;
-    border-radius: 20px;
-    background-size: cover;
-    background-position: center center;
+	height: calc(90% - 4px);
+	width: 100%;
+	float: left;
+	position: relative;
+	border-bottom: 2px solid #ff5e00;
+	border-radius: 20px;
+	background-size: cover;
+	background-position: center center;
 }
 
 .galerij .vert-10{
-    height: 10%;
-    width: 100%;
-    text-align: center;
-    float:left;
-}
-
-.galerij .vert-10 p{
-    text-align: center;
+	height: 10%;
+	width: 100%;
+	text-align: center;
+	float:left;
 }
 
 /* breadcrumbs */
