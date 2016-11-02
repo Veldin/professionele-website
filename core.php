@@ -50,16 +50,39 @@ class Core {
 	//Functie die de breadcrumbs terug geeft
 	function breadcrumbs(){
 		//TODO: make this function xD
-	
-		$breadcrumbs = array();
-	
-		/* $breadcrumbs['home'] = "?p=home";
-		$breadcrumbs['home']['School_of_Business'];
-	
-		//School_of_Business
-		print_r($breadcrumbs); */
-	
-		return 'breadcrumbs';
+		global $core;
+		
+		$crumb['Home'] = "<a href='index.php'>home</a>";
+		$crumb['Galerij'] = "<a href='index.php?p=galerij'>galerij</a>";
+		$crumb['Contact'] = "<a href='index.php?p=contactformulier'>Contact</a>";
+		$crumb['Imageuploading'] = "<a href='index.php?p=Imageuploading'>Imageuploading</a>";
+		$crumb['School_of_business'] = "<a href='index.php?p=School_of_Business'>School of Business</a>";
+		$crumb['School_of_technology'] = "<a href='index.php?p=School_of_Technology'>School_of_Technology</a>";
+		
+		//Order of breadcrumbs
+		switch (strtolower($core->paginaTitel())) {
+			case 'home':
+				return $crumb['Home'];
+				break;
+			case 'galerij':
+				return $crumb['Home'].$crumb['Galerij'];
+				break;
+			case 'contactformulier':
+				return $crumb['Home'].$crumb['Contact'];
+				break;
+			case 'imageuploading':
+				return $crumb['Home'].$crumb['Galerij'].$crumb['Imageuploading'];
+				break;	
+			case 'school_of_business':
+				return $crumb['Home'].$crumb['School_of_business'];
+				break;		
+			case 'school_of_technology':
+				return $crumb['Home'].$crumb['School_of_technology'];
+				break;
+			default:
+				return $crumb['Home'];
+				break;
+		}
 	}
 	
 	//Functie om de taal te veranderen

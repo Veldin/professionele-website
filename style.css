@@ -370,6 +370,29 @@ h2{
     text-align: center;
 }
 
+/* breadcrumbs */
+#breadcrumbs a{
+	text-decoration: none;
+	color: black;
+}
+
+#breadcrumbs a:hover{
+	color: #ff5e00;
+}
+
+#breadcrumbs a:last-child {
+    color: #ff5e00;
+}
+
+#breadcrumbs a:after
+{
+  content: ' > ';
+  color: black;
+}
+#breadcrumbs a:last-child:after
+{
+  content: '';
+}
 
 /* global content margin! */
 
