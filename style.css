@@ -320,12 +320,36 @@ h2{
     margin-top: 40px;
     margin-left: 10px;
     margin-right: 10px;
-    font-size: 25px;
+    font-size: 23px;
+}
+
+#header_inner #navigator li.right{
+    float: right;
 }
 
 #header_inner #navigator li a{
 	color: white;
     text-decoration: none;
+}
+
+#header_inner #navigator li a #flag_dutch{
+    color: rgba(255, 255, 255, 0);
+    text-decoration: none;
+    background-repeat: no-repeat;
+    background: url(images/nederlandsevlag.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+	background-position: center center;
+}
+
+#header_inner #navigator li a #flag_english{
+    color: rgba(255, 255, 255, 0);
+    text-decoration: none;
+    background-repeat: no-repeat;
+    background: url(images/engelsevlag.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+	background-position: center center;
 }
 
 
@@ -430,9 +454,45 @@ h2{
 	color: white;
 }
 
+.form2{
+	color: blue;
+}
+
+/* Contact */
+.contactformulier .form textarea{
+    height:100px;
+    width:350px;
+    resize:none;
+}
+ 
+.contactformulier .form2{
+    color:red;
+    padding:10px;
+}
+
+.contactformulier .form input,
+.contactformulier .form textarea{
+    color: #000000;
+    border: 0;
+    border-bottom: 2px solid #e2e2e2;
+    background-color: #fbfafc;
+    outline: 0;
+}
+
+.contactformulier .form input[type="submit"] { 
+    background-color: #ff5e00;
+    width: 100px;
+    height: 40px;
+    color: white;
+    font-size: 17px;
+}
+
+.contactformulier .form input:focus,
+.contactformulier .form textarea:focus{
+	border-bottom: #ff5e00 2px solid;
+}
 
 /* global content margin! */
-
 .contentMargin{
 	margin:8px;
 	width: calc(100% - 16px);

@@ -6,24 +6,30 @@ class Pages {
 		global $core;
 		
 		echo '<div class="coll-100">';
-			echo '<div class="coll-33">';
-				echo '<div class="blok contentMargin business">';
+			echo '<a href="index.php?p=School_of_Business">';
+				echo '<div class="coll-33">';
+					echo '<div class="blok contentMargin business">';
+					echo '</div>';
 				echo '</div>';
-			echo '</div>';
+			echo '</a>';
 			
-			echo '<div class="coll-33">';
-				echo '<div class="blok contentMargin technology">';
+			echo '<a href="index.php?p=School_of_Technology">';
+				echo '<div class="coll-33">';
+					echo '<div class="blok contentMargin technology">';
+					echo '</div>';
 				echo '</div>';
-			echo '</div>';
+			echo '</a>';
 			
-			echo '<div class="coll-33">';
-				echo '<div class="blok contentMargin">';
-					echo '<span>Harambe</span>';
-					echo '<span>College</span>';
-					echo '<span>Info@Harambe-College.com</span>';
-					echo '<span>058 244 14 41</span>';
+			echo '<a href="index.php?p=contactformulier">';
+				echo '<div class="coll-33">';
+					echo '<div class="blok contentMargin">';
+						echo '<span>Harambe</span>';
+						echo '<span>College</span>';
+						echo '<span>Info@Harambe-College.com</span>';
+						echo '<span>058 244 14 41</span>';
+					echo '</div>';
 				echo '</div>';
-			echo '</div>';
+			echo '</a>';
 			
 			echo '<div class="clear"></div>';
 		echo '</div>';
@@ -75,30 +81,87 @@ class Pages {
 	}
 	
 	// contactformulier
-	function contactformulier(){	
-		echo'<form name="form" action="#" method="post">';
-			echo'<p><span class="dutch">Naam:</span><span class="english">Name:</span><br> <input type="text" name="name"></p>';
-			echo '<p><span class="english">emailadres:</span><span class="dutch">emailadres:</span><br><input type="text" name="mail"></p>';
-			echo'<br><textarea name="text"></textarea>';
-			echo'<p><input type="submit" name="submit" value="submit"></p>';
-		echo '</form>';	
-			
-		if(isset($_POST["submit"])){
-			$text = $_POST["text"];
-			$name = $_POST["name"];		
-			$mail = $_POST["mail"];
-			if(!filter_var($mail, FILTER_VALIDATE_EMAIL) === false){
-				echo '<span class="dutch">'.$name.' ,bedankt voor de reactie. Er wordt zo spoedig mogelijk gereageerd naar '.$mail.".</span>";
-				echo '<span class="english">'.$name.' ,thanks for your response. We will respond as soon as possible to '.$mail.".</span>";
-			}
-			else{
-				echo'<span class="dutch">'.$mail.' is een ongeldig emailadres'.'</span>';
-				echo'<span class="english">'.$mail.' is not a valid emailadres'.'</span>';
-			}
-			
-		}else{
-			
-		}
+// contactformulier
+    function contactformulier(){
+		Global $core;
+		
+		echo'<div class="coll-100 contentMargin">';
+			echo '<div class="coll-100" id="breadcrumbs">';
+				echo $core->breadcrumbs();
+			echo '</div>';
+		
+			echo'<div class="coll-100">';
+				echo'<div class="form">';  
+					echo'<h1>Contact</h1>';
+					echo'<span class="dutch">Om contact met ons te maken, verzoeken wij u om dit contactformulier volledig in the vullen.</span>';
+					echo'<span class="english">To contact us, please fill in the contact form below.</span>';
+					echo'<form name="form" action="#" method="post">';
+						echo'<p><span class="dutch">Naam:</span><span class="english">Name:</span><br> <input type="text" name="name"></p>';
+						echo '<p><span class="english">Email address:</span><span class="dutch">Emailadres:</span><br><input type="text" name="mail"></p>';
+						echo'<p><span class="english">Type your message here:</span><span class="dutch">Type hier uw bericht:</span></p><textarea name="text"></textarea>';
+						echo'<p><input type="submit" name="submit" value="submit"></p>';
+					echo '</form>';
+				echo'</div>';
+				
+				echo'<div class="form2 contentMargin">';
+				if(isset($_POST["submit"])){
+					$text = htmlentities($_POST["text"]);
+					$name = htmlentities($_POST["name"]);      
+					$mail = htmlentities($_POST["mail"]);
+				   
+					if (empty($_POST["name"]) OR empty($_POST["text"]) OR empty($_POST["mail"])) {
+					   
+						//mist iets
+						if (empty($_POST["name"]) AND empty($_POST["text"]) AND empty($_POST["mail"])) {
+							echo '<p><span class="dutch">U heeft uw naam, emailadres en bericht niet ingevuld.</span></p>';
+							echo '<p><span class="english">You did not fill in your name, email nor message.</span></p>';   
+						}
+						elseif (empty($_POST["name"]) AND empty($_POST["text"]) ){
+							echo'<p><span class="dutch">U heeft uw naam en bericht niet ingevuld.</span></p>';
+							echo'<p><span class="english">You did not fill in your name nor message.</span></p>';
+						}
+						elseif (empty($_POST["name"]) AND empty($_POST["mail"]) ){
+								echo'<p><span class="dutch">U heeft uw naam en emailadres niet ingevuld.</span></p>';
+								echo'<p><span class="english">You dit not fill in your name nor email.</span></p>';
+						}
+						elseif (empty($_POST["text"]) AND empty($_POST["mail"]) ){
+								echo'<p><span class="dutch">U heeft uw bericht en emailadres niet ingevuld.</span></p>';
+								echo'<p><span class="english">You did not fill in your email nor message.</span></p>';
+						}
+						elseif (empty($_POST["name"])){
+							echo'<p><span class="dutch">U heeft uw naam niet ingevuld.</span></p>';
+							echo'<p><span class="english">You did not fill in your name.</span></p>';
+						}
+						elseif (empty($_POST["text"])){
+							echo'<p><span class="dutch">U heeft uw bericht niet ingevuld.</span></p>';
+							echo'<p><span class="english">You did not fill in your message.</span></p>';
+						}
+						elseif (empty($_POST["mail"])){
+							echo'<p><span class="dutch">U heeft uw emailadres niet ingevuld.</span></p>';
+							echo'<p><span class="english">You did not fill in your email.</span></p>';
+						}
+						else{}
+					}else{
+						if(!filter_var($mail, FILTER_VALIDATE_EMAIL) === false){
+							echo'<div class="form">';
+								echo '<p><span class="dutch">'.$name.' ,bedankt voor de reactie. Er wordt zo spoedig mogelijk gereageerd naar '.$mail.".</span></p>";
+								echo '<p><span class="english">'.$name.' ,thanks for your response. We will respond as soon as possible to '.$mail.".</span></p>";
+							echo'</div>';
+						}
+					   
+						else{
+							echo'<div class="form2">';
+								echo'<p><span class="dutch">'.$mail.' is een ongeldig emailadres'.'</span></p>';
+								echo'<p><span class="english">'.$mail.' is not a valid emailadres'.'</span></p>';
+							echo'</div>';
+						}
+					}
+				}
+				echo '</div>';
+				echo '<div class="clear"></div>';
+			echo '</div>';
+		echo '</div>';
+		echo '<div class="clear"></div>';
 	}
 	
 	//logo
@@ -109,6 +172,8 @@ class Pages {
 	
 	//De navigator word op elke standaard pagina geladen aan de bovenkant.
 	function navigator(){
+		global $core;
+	
 		echo '<ul id="navigator">';
 		
 			echo '<li><a href="index.php?p=home">
@@ -125,12 +190,19 @@ class Pages {
 			</a></li>';
 			
 			echo '<li><a href="index.php?p=galerij">
-				<span class="dutch">Gallerij</span>
+				<span class="dutch">Galerij</span>
 				<span class="english">Gallery</span>
 			</a></li>';
 
 			echo '<li><a href="index.php?p=contactformulier">
 				<span>Contact</span>
+			</a></li>';
+
+			echo '<li class="right"><a href="index.php?p='.$core->paginaTitel(false).'&t=nl">
+				<span id="flag_dutch">Flag</span>
+			</a></li>';
+			echo '<li class="right"><a href="index.php?p='.$core->paginaTitel(false).'&t=en">
+				<span id="flag_english">Flag</span>
 			</a></li>';
 
 		echo '</ul>';
@@ -221,7 +293,8 @@ class Pages {
 			echo '</div>';
 		
 			echo '<div class="coll-100">';
-				echo '<h1>Galerij</h1>';
+				echo '<h1 class="dutch">Galerij</h1>';
+				echo '<h1 class="english">Gallery</h1>';
 			echo '</div>';
 			echo '<div class="clear"></div>';
 		
@@ -340,6 +413,8 @@ class Pages {
 	}
 	//De footer word op elke standaard pagina geladen aan de onderkant.
 	function footer(){
+		global $core;
+	
 		echo '<div class="coll-100 contentMargin">';
 			echo '<div class="coll-50">';
 				echo '<div class="coll-50">';
@@ -399,24 +474,24 @@ class Pages {
 					echo '<p class="lijstjes dutch";>Kies taal / Switch languages';
 					echo '
 						<ul class="footerlists dutch";>
-							<li class="dutch"><a href="index.php?t=nl";>Nederlands / Dutch</a></li>
-							<li class="dutch"><a href="index.php?t=en";>Engels / English</a></li>
+							<li class="dutch"><a href="index.php?p='.$core->paginaTitel(false).'&t=nl";>Nederlands / Dutch</a></li>
+							<li class="dutch"><a href="index.php?p='.$core->paginaTitel(false).'&t=en";>Engels / English</a></li>
 						</ul>
 						</p>';
 					echo '<p class="lijstjes english";>Kies taal / Switch languages';
 					echo '
 						<ul class="footerlists english";>
-							<li class="english"><a href="index.php?t=nl";>Nederlands / Dutch</a></li>
-							<li class="english"><a href="index.php?t=en";>Engels / English</a></li>
+							<li class="english"><a href="index.php?p='.$core->paginaTitel(false).'&t=nl";>Nederlands / Dutch</a></li>
+							<li class="english"><a href="index.php?p='.$core->paginaTitel(false).'&t=en";>Engels / English</a></li>
 						</ul>
 						</p>';
 						/*sluiten div coll-100*/
 				echo '</div>';
 			echo '</div>';
 			echo '<div class="coll-50">';
-				echo '<span><a href="http://www.facebook.com/"><img class="smlogos" src="facebooklogo.png" alt="facebook logo"></a></span>
-				<span><a href="http://www.twitter.com/"><img class="smlogos" src="twitterlogo.png" alt="twitter logo"></a></span>
-				<span><a href="http://www.instagram.com/"><img  class="smlogos" src="instagramlogo.png" alt="instagram logo"></a></span>';
+				echo '<span><a href="http://www.facebook.com/"><img class="smlogos" src="images/facebooklogo.png" alt="facebook logo"></a></span>
+				<span><a href="http://www.twitter.com/"><img class="smlogos" src="images/twitterlogo.png" alt="twitter logo"></a></span>
+				<span><a href="http://www.instagram.com/"><img  class="smlogos" src="images/instagramlogo.png" alt="instagram logo"></a></span>';
 				/*sluiten div coll-50*/
 			echo '</div>';
 			/*sluiten div coll-100*/
@@ -430,7 +505,9 @@ class Pages {
 		
 		echo '<div class="coll-100">';
 			echo '<div id="breadcrumbs" class="contentMargin">';
-				echo $core->breadcrumbs();
+						echo $core->breadcrumbs();
+			echo '</div>';
+			echo '<div class="contentMargin">';
 				echo '<h1>Upload images</h1>';
 			echo '</div>';
 		echo '</div>';
@@ -457,7 +534,13 @@ class Pages {
 	
 	//De notfound pagina. Deze word aangeroepen als een pagina word aangeroepen die niet bestaat.
 	function notfound(){
-		echo 'Pagina niet gevonden!';
+		echo '<div class="coll-100">';
+			echo '<div class="contentMargin">';
+				echo '<div class="dutch"><h1>Pagina niet gevonden!</h1>De aangevraagde pagina is niet gevonden.</div>';
+				echo '<span class="english"><h1>Page not found!</h1>The requested page was not found.</span>';
+			echo '</div>';
+		echo '</div>';
+		
 	}
 	function test(){
 		echo "test";

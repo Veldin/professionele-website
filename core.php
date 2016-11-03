@@ -52,8 +52,8 @@ class Core {
 		//TODO: make this function xD
 		global $core;
 		
-		$crumb['Home'] = "<a href='index.php'>home</a>";
-		$crumb['Galerij'] = "<a href='index.php?p=galerij'>galerij</a>";
+		$crumb['Home'] = "<a href='index.php'>Home</a>";
+		$crumb['Galerij'] = "<a href='index.php?p=galerij'>Galerij</a>";
 		$crumb['Contact'] = "<a href='index.php?p=contactformulier'>Contact</a>";
 		$crumb['Imageuploading'] = "<a href='index.php?p=Imageuploading'>Imageuploading</a>";
 		$crumb['School_of_business'] = "<a href='index.php?p=School_of_Business'>School of Business</a>";
@@ -98,8 +98,11 @@ class Core {
 
 		if($_SESSION["taal"] == 'en'){
 			echo '<style>.dutch{display:none;}</style>';
+			echo '<style>#header_inner #navigator li a #flag_dutch{filter: grayscale(100%);}</style>';
 		}else{
 			echo '<style>.english{display:none;}</style>';
+			echo '<style>#header_inner #navigator li a #flag_english{filter: grayscale(100%);}</style>';
+			
 		}
 	}
 	
@@ -193,8 +196,7 @@ class Core {
 
     	//Initialisation of list.
     	$list = "";
-
-
+		
     	//Defines what chars to strip.
         foreach($rssString as $article){
             $varS = explode($tagS, $article);
