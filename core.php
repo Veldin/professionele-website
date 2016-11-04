@@ -152,7 +152,7 @@ class Core {
 	} */
 	
 		//Function to strip content from rss feeds.
-    function fetch($rssFeed, $start){
+    function fetch($rssFeed, $start, $strip){
     	//define the tags.
     	$tagS = "<" . $start . ">";
     	$tagE = "</" . $start . ">";
@@ -174,16 +174,21 @@ class Core {
 
         //Strips content of defined tag.
            $sub = substr($varS[1], 0, $length);
-
-           $final = strip_tags($sub);
+           
+           if ($strip !== true) {
+            $final = strip_tags($sub);
+           }
+           else {
+               $final = $sub;
+           }
         //Makes a string with all the stripped content.   
            $list = $list . "&&" . $final;
         }
         //returns the stripped content in a string.
         return $list;
-
-    }        
-
+        
+    }   
+         
     function imageuploading() {
         global $core;
         $target_dir = "images\uploads\\";  

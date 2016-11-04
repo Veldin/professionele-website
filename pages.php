@@ -393,6 +393,73 @@ class Pages {
 				echo '<div class="clear"></div>';
 		} */
 	}
+        
+        function beursrss() {
+         global $core;
+		
+		echo '<div class="coll-100">';
+			echo '<div class="coll-33">';
+				echo '<div class="blok contentMargin business">';
+				echo '</div>';
+			echo '</div>';
+			
+			echo '<div class="coll-33">';
+				echo '<div class="blok contentMargin technology">';
+				echo '</div>';
+			echo '</div>';
+			
+			echo '<div class="coll-33">';
+				echo '<div class="blok contentMargin">';
+					echo '<span>Harambe</span>';
+					echo '<span>College</span>';
+					echo '<span>Info@Harambe-College.com</span>';
+					echo '<span>058 244 14 41</span>';
+				echo '</div>';
+			echo '</div>';
+			
+			echo '<div class="clear"></div>';
+		echo '</div>';
+		
+		echo '<div class="clear"></div>';
+		
+		echo '<div class="coll-100">';
+			echo '<div id="breadcrumbs" class="contentMargin">';
+				echo $core->breadcrumbs();
+			echo '</div>';
+		echo '</div>';
+		
+		echo '<div class="clear"></div>';
+		
+		echo '<div class="coll-100">';
+			echo '<div class="coll-66">';
+				echo '<div class="contentMargin">';
+					echo '<h1>Beurskoersen</h1>';
+                                       
+				echo '</div>';
+			echo '</div>';
+		
+			echo '<div class="coll-33">';
+				echo '<div class="contentMargin">';
+					echo "<div id='beurs'>";
+						$rss = html_entity_decode($core->easy_curl("http://www.beursgorilla.nl/rss/rss-aex.asp"));					
+                                                $strip = true;
+                                                $categoryList = $core->fetch($rss, "category", $strip);
+						$descriptionList = $core->fetch($rss, "description", $strip);
+                                                $categories = explode("&&", $categoryList);
+						$descriptions = explode("&&", $descriptionList);
+						for ($x = 2; $x <= 5; $x++) {
+                                                        echo $categories[$x];
+							echo $descriptions[$x];
+						}						
+					echo "</div>";
+				echo '</div>';
+			echo '</div>';
+			
+			echo '<div class="clear"></div>';
+		echo '</div>';
+		echo '<div class="clear"></div>';
+	}
+        
 	//De footer word op elke standaard pagina geladen aan de onderkant.
 	function footer(){
 		echo 'Footer!';
