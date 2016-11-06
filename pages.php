@@ -82,8 +82,8 @@ class Pages {
 						echo '<h1>Nieuws</h1>';
 						$rss = $core->easy_curl("http://www.nu.nl/rss");
 						
-						$titleList = $core->fetch($rss, "title");
-						$descriptionList = $core->fetch($rss, "description");
+						$titleList = $core->fetch($rss, "title", 0);
+						$descriptionList = $core->fetch($rss, "description", 0);
 						$titles = explode("&&", $titleList);
 						$descriptions = explode("&&", $descriptionList);
 						for ($x = 2; $x <= 5; $x++) {
@@ -635,7 +635,7 @@ class Pages {
 		echo '</div>';
 		echo '<div class="clear"></div>';
 	}
-        
+         
 	//De footer word op elke standaard pagina geladen aan de onderkant.
 	function footer(){
 		global $core;
@@ -755,8 +755,8 @@ class Pages {
 			echo '</div>';
 		echo '</div>';
 		echo '<div class="clear"></div>';
-	}
-	
+	}       
+        	
 	//De notfound pagina. Deze word aangeroepen als een pagina word aangeroepen die niet bestaat.
 	function notfound(){
 		echo '<div class="coll-100">';

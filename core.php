@@ -215,12 +215,7 @@ class Core {
                $final = $sub;
            }
 =======
-          // if ($strip !== true) {
-            $final = strip_tags($sub);
-           //}
-          // else {
-            //   $final = $sub;
-           //}
+
 >>>>>>> refs/remotes/origin/master
         //Makes a string with all the stripped content.   
            $list = $list . "&&" . $final;
@@ -230,7 +225,7 @@ class Core {
         
     }   
 <<<<<<< HEAD
-         
+      
     function imageuploading() {
         global $core;
         $target_dir = "images\uploads\\";  
