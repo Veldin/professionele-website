@@ -98,10 +98,8 @@ class Core {
 
 		if($_SESSION["taal"] == 'en'){
 			echo '<style>.dutch{display:none;}</style>';
-			echo '<style>#header_inner #navigator li a #flag_dutch{filter: grayscale(100%);}</style>';
 		}else{
 			echo '<style>.english{display:none;}</style>';
-			echo '<style>#header_inner #navigator li a #flag_english{filter: grayscale(100%);}</style>';
 			
 		}
 	}
@@ -196,7 +194,8 @@ class Core {
 
     	//Initialisation of list.
     	$list = "";
-		
+
+
     	//Defines what chars to strip.
         foreach($rssString as $article){
             $varS = explode($tagS, $article);
@@ -207,15 +206,20 @@ class Core {
 
         //Strips content of defined tag.
            $sub = substr($varS[1], 0, $length);
-
-           $final = strip_tags($sub);
+           
+          // if ($strip !== true) {
+            $final = strip_tags($sub);
+           //}
+          // else {
+            //   $final = $sub;
+           //}
         //Makes a string with all the stripped content.   
            $list = $list . "&&" . $final;
         }
         //returns the stripped content in a string.
         return $list;
-
-    }
+        
+    }   
 	
 	function imageuploading() {
         global $core;

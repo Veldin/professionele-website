@@ -9,6 +9,10 @@ body{
 	background-color: #e2e2e2;
 }
 
+p{
+	margin: 3%;
+}
+
 h1{
     font-family: Verdana;
     color: gray;
@@ -27,6 +31,7 @@ h2{
     color: #ff5e00;
     font-weight: normal;
     font-size: 35px;
+	margin-left: 2%;
 }
 
 @font-face {
@@ -84,6 +89,62 @@ h2{
 	position: relative;
 	min-height: 280px;
 	background-color: #ff5e00;
+}
+
+/* image divs */ 
+.img_big,
+.img,
+.img_small{
+    background-size: cover;
+    background-position: center center;
+}
+
+.img_big{
+	height: 500px;
+}
+
+.img{
+	height: 300px;
+}
+
+.img_small{
+	height: 200px;
+}
+
+/* afbeeldingen */
+
+.lerencomp{
+	background-image: url("images/lerencomp.jpg");
+}
+
+
+.maneninpak1{
+	background-image: url("images/maneninpak1.jpg");
+}
+
+
+.maneninpak2{
+	background-image: url("images/maneninpak2.jpg");
+}
+
+
+.informatikaas{
+	background-image: url("images/informatikaas.jpg");
+}
+
+
+.informatikaas2{
+	background-image: url("images/informatikaas2.jpg");
+}
+
+
+.informatikaas3{
+	background-image: url("images/informatikaas3.jpg");
+}
+
+
+.studenten1{
+	background-image: url("images/lerencomp.jpg");
 }
 
 /* coll */ 
@@ -273,6 +334,23 @@ h2{
 }
 
 /* News (rss) */
+
+/* School of Business */
+
+.tekstbusiness{
+margin-left:170px;
+width:100%;
+}
+
+.wrapperbusiness{
+padding:10px;
+}
+
+.wrapperbusiness img{
+padding:10px;
+height:310px;
+width:660px;
+}
 
 #news h2{
     font-family: Verdana;

@@ -1,0 +1,1446 @@
+1478267039
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+	<title>BeursGorilla koersen AEX</title>
+	<description>Beurs koersen AEX</description>
+	<link>http://www.beursgorilla.nl/aex.asp</link>
+	<ttl>5</ttl>
+	<atom:link href="http://www.beursgorilla.nl/rss/rss-aex.asp" rel="self" type="application/rss+xml" />
+	
+	<category>Koersen/AEX</category>
+	<image>
+		<url>http://www.beursgorilla.nl/images/logo.gif</url>
+		<title>BeursGorilla koersen AEX</title>
+		<link>http://www.beursgorilla.nl/aex.asp</link>
+	</image>
+	<language>nl</language>
+
+	<item>
+		<title><![CDATA[Aalberts]]></title>
+		<category>Aalberts</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;27,82&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;28,09&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;-1,14&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;27,75&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;-0,32&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;27,82&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;28,07&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;27,85&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;28,14&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;80.125&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Aalberts&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000002&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Aalberts&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000002&amp;symbol=</guid>
+	</item>
+
+	<item>
+		<title><![CDATA[ABN AMRO]]></title>
+		<category>ABN AMRO</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;20,19&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;20,31&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;-0,69&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;19,96&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;-0,14&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;20,17&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;20,22&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;20,19&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;20,33&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;615.301&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=ABN_AMRO&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955005345&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=ABN_AMRO&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955005345&amp;symbol=</guid>
+	</item>
+
+	<item>
+		<title><![CDATA[Aegon]]></title>
+		<category>Aegon</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;3,79&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;3,83&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;-1,66&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;3,74&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;-0,06&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;3,79&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;3,80&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;3,80&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;3,86&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;5.956.312&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Aegon&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000020&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Aegon&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000020&amp;symbol=</guid>
+	</item>
+
+	<item>
+		<title><![CDATA[Ahold]]></title>
+		<category>Ahold</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;20,12&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;20,26&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;-0,79&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;20,11&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;-0,16&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;20,12&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;20,15&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;20,13&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;20,28&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;1.334.928&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Ahold&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000025&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Ahold&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000025&amp;symbol=</guid>
+	</item>
+
+	<item>
+		<title><![CDATA[Akzo Nobel]]></title>
+		<category>Akzo Nobel</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;57,09&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;57,21&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;-0,33&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;56,75&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;-0,19&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;57,07&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;57,00&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;57,10&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;57,28&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;376.849&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Akzo_Nobel&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000033&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Akzo_Nobel&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000033&amp;symbol=</guid>
+	</item>
+
+	<item>
+		<title><![CDATA[Altice]]></title>
+		<category>Altice</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;15,19&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;15,35&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;-1,94&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;15,10&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;-0,30&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;15,19&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;15,35&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;15,19&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;15,49&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;795.468&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Altice&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955003924&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Altice&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955003924&amp;symbol=</guid>
+	</item>
+
+	<item>
+		<title><![CDATA[ArcelorMittal]]></title>
+		<category>ArcelorMittal</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;5,91&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;6,04&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;-2,38&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;5,88&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;-0,14&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;5,91&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;6,03&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;5,91&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;6,05&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;6.962.624&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=ArcelorMittal&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000547&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=ArcelorMittal&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000547&amp;symbol=</guid>
+	</item>
+
+	<item>
+		<title><![CDATA[ASML]]></title>
+		<category>ASML</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;91,87&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;92,49&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;-0,55&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;91,77&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;-0,51&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;91,84&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;91,94&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;91,88&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;92,38&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;414.953&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=ASML&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000060&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=ASML&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000060&amp;symbol=</guid>
+	</item>
+
+	<item>
+		<title><![CDATA[Boskalis]]></title>
+		<category>Boskalis</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;28,10&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;28,50&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;-1,63&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;27,93&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;-0,47&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;28,09&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;28,50&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;28,10&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;28,57&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;244.033&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Boskalis&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000122&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Boskalis&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000122&amp;symbol=</guid>
+	</item>
+
+	<item>
+		<title><![CDATA[DSM]]></title>
+		<category>DSM</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-up.gif"&gt;&lt;font style="color:#008400;"&gt;54,98&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;55,12&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;0,51&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;54,37&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;0,28&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;54,95&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;54,39&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;54,96&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;54,70&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;678.513&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=DSM&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000249&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=DSM&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000249&amp;symbol=</guid>
+	</item>
+
+	<item>
+		<title><![CDATA[Galapagos]]></title>
+		<category>Galapagos</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;52,65&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;52,69&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;-1,55&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;51,82&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;-0,83&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;52,56&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;52,17&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;52,70&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;53,48&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;204.499&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Galapagos&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955001402&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Galapagos&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955001402&amp;symbol=</guid>
+	</item>
+
+	<item>
+		<title><![CDATA[Gemalto]]></title>
+		<category>Gemalto</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;47,48&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;48,21&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;-1,27&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;47,48&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;-0,61&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;47,46&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;48,02&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;47,48&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;48,09&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;280.119&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Gemalto&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000368&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Gemalto&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000368&amp;symbol=</guid>
+	</item>
+
+	<item>
+		<title><![CDATA[Heineken]]></title>
+		<category>Heineken</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;73,04&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;73,26&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;-0,25&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;72,74&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;-0,18&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;73,02&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;72,93&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;73,06&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;73,22&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;224.269&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Heineken&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000376&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Heineken&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000376&amp;symbol=</guid>
+	</item>
+
+	<item>
+		<title><![CDATA[ING]]></title>
+		<category>ING</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;11,80&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;11,83&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;-0,30&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;11,70&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;-0,04&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;11,80&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;11,75&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;11,80&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;11,83&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;9.410.385&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=ING&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000424&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=ING&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000424&amp;symbol=</guid>
+	</item>
+
+	<item>
+		<title><![CDATA[KPN]]></title>
+		<category>KPN</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;2,82&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;2,84&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;-1,12&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;2,82&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;-0,03&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;2,82&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;2,84&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;2,82&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;2,86&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;4.776.755&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=KPN&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000472&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=KPN&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000472&amp;symbol=</guid>
+	</item>
+
+	<item>
+		<title><![CDATA[NN Group]]></title>
+		<category>NN Group</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;26,72&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;26,86&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;-1,26&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;26,57&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;-0,34&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;26,71&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;26,82&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;26,72&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;27,06&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;260.308&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=NN_Group&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955004080&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=NN_Group&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955004080&amp;symbol=</guid>
+	</item>
+
+	<item>
+		<title><![CDATA[Philips]]></title>
+		<category>Philips</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;26,39&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;27,16&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;-0,40&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;26,28&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;-0,11&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;26,39&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;26,48&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;26,40&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;26,50&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;1.842.329&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Philips&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000617&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Philips&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000617&amp;symbol=</guid>
+	</item>
+
+	<item>
+		<title><![CDATA[Randstad]]></title>
+		<category>Randstad</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;45,55&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;46,20&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;-1,72&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;45,28&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;-0,80&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;45,51&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;46,20&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;45,53&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;46,34&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;533.702&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Randstad&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000648&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Randstad&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000648&amp;symbol=</guid>
+	</item>
+
+	<item>
+		<title><![CDATA[RELX]]></title>
+		<category>RELX</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;14,70&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;14,73&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;-0,08&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;14,60&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;-0,01&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;14,70&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;14,69&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;14,71&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;14,72&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;610.752&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=RELX&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000270&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=RELX&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000270&amp;symbol=</guid>
+	</item>
+
+	<item>
+		<title><![CDATA[Royal Dutch Shell A]]></title>
+		<category>Royal Dutch Shell A</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;22,68&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;22,87&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;-0,83&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;22,60&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;-0,19&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;22,67&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;22,78&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;22,68&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;22,87&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;4.874.768&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Royal_Dutch_Shell_A&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000655&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Royal_Dutch_Shell_A&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000655&amp;symbol=</guid>
+	</item>
+
+	<item>
+		<title><![CDATA[SBM Offshore]]></title>
+		<category>SBM Offshore</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;12,39&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;12,53&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;-1,04&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;12,36&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;-0,13&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;12,39&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;12,47&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;12,40&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;12,52&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;413.431&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=SBM_Offshore&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000699&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=SBM_Offshore&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000699&amp;symbol=</guid>
+	</item>
+
+	<item>
+		<title><![CDATA[Unibail-Rodamco]]></title>
+		<category>Unibail-Rodamco</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;211,15&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;212,40&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;-0,68&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;210,40&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;-1,45&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;211,10&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;212,05&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;211,20&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;212,60&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;132.521&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Unibail-Rodamco&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000847&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Unibail-Rodamco&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000847&amp;symbol=</guid>
+	</item>
+
+	<item>
+		<title><![CDATA[Unilever Cert.]]></title>
+		<category>Unilever Cert.</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;37,54&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;37,73&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;-0,61&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;37,52&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;-0,23&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;37,55&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;37,63&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;37,55&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;37,77&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;2.365.513&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Unilever_Cert.&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000846&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Unilever_Cert.&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000846&amp;symbol=</guid>
+	</item>
+
+	<item>
+		<title><![CDATA[Vopak]]></title>
+		<category>Vopak</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;44,18&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;44,60&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;-0,79&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;44,11&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;-0,35&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;44,17&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;44,50&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;44,19&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;44,53&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;111.217&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Vopak&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000869&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Vopak&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000869&amp;symbol=</guid>
+	</item>
+
+	<item>
+		<title><![CDATA[Wolters Kluwer]]></title>
+		<category>Wolters Kluwer</category>
+		<description>
+			&lt;table cellspacing="0"&gt;
+				
+				
+				
+									&lt;tr>
+										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-up.gif"&gt;&lt;font style="color:#008400;"&gt;32,81&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td width="20%"&gt;&lt;/td&gt;
+										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;32,94&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td &gt;Verschil %&lt;/td&gt;
+										&lt;td align="right"&gt;
+											&lt;font style="color:#FF0000;"&gt;0,49&lt;/font&gt;
+											
+										&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laagste koers&lt;/td&gt;
+										&lt;td align="right"&gt;32,15&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Verschil&lt;/td&gt;
+										&lt;td align="right"&gt;0,16&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Bied koers&lt;/td&gt;
+										&lt;td align="right"&gt;32,81&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr bgcolor="#edf2fb"&gt;
+										&lt;td&gt;Open&lt;/td&gt;
+										&lt;td align="right"&gt;32,29&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Laat koers&lt;/td&gt;
+										&lt;td align="right"&gt;32,82&lt;/td&gt;
+									&lt;/tr&gt;
+									&lt;tr&gt;
+										&lt;td&gt;Vorig Slot&lt;/td&gt;
+										&lt;td align="right"&gt;32,65&lt;/td&gt;
+										&lt;td &gt;&lt;/td&gt;
+										&lt;td&gt;Volume&lt;/td&gt;
+										&lt;td align="right"&gt;601.119&lt;/td&gt;
+									&lt;/tr&gt;
+				
+				
+			&lt;/table&gt;
+		</description>
+		<link>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Wolters_Kluwer&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000883&amp;symbol=</link>
+		<guid>http://www.beursgorilla.nl/fonds-informatie.asp?naam=Wolters_Kluwer&amp;cat=koersen&amp;subcat=1&amp;instrumentcode=955000883&amp;symbol=</guid>
+	</item>
+
+
+</channel>
+</rss>
