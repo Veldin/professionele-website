@@ -9,6 +9,11 @@ body{
 	background-color: #e2e2e2;
 }
 
+p{
+	margin: 3%;
+	text-align: justify;
+}
+
 h1{
     font-family: Verdana;
     color: gray;
@@ -27,6 +32,7 @@ h2{
     color: #ff5e00;
     font-weight: normal;
     font-size: 35px;
+	margin-left: 2%;
 }
 
 @font-face {
@@ -56,11 +62,14 @@ h2{
 }
 
 #headimage{
-	background-color: gray;
-	width: 100%;
-	min-height: 550px;
-	background-image: url("images/slide2.png");
-	background-size: cover;
+    background-color: gray;
+    width: 100%;
+    min-height: 550px;
+    background-image: url(images/slide2.png);
+    background-size: cover;
+    background-position: 20%;
+    margin: 0 auto;
+    max-width: 1920px;
 }
 
 #content{
@@ -84,6 +93,72 @@ h2{
 	position: relative;
 	min-height: 280px;
 	background-color: #ff5e00;
+}
+
+@media only screen and (max-width: 1400px) {
+	#headimage{
+		min-height: 480px;
+	}
+	#content{
+		top:initial;
+	}
+}
+
+
+/* image divs */ 
+.img_big,
+.img,
+.img_small{
+    background-size: cover;
+    background-position: center center;
+}
+
+.img_big{
+	height: 500px;
+}
+
+.img{
+	height: 300px;
+}
+
+.img_small{
+	height: 200px;
+}
+
+/* afbeeldingen */
+
+.lerencomp{
+	background-image: url("images/lerencomp.jpg");
+}
+
+
+.maneninpak1{
+	background-image: url("images/maneninpak1.jpg");
+}
+
+
+.maneninpak2{
+	background-image: url("images/maneninpak2.jpg");
+}
+
+
+.informatikaas{
+	background-image: url("images/informatikaas.jpg");
+}
+
+
+.informatikaas2{
+	background-image: url("images/informatikaas2.jpg");
+}
+
+
+.informatikaas3{
+	background-image: url("images/informatikaas3.jpg");
+}
+
+
+.studenten1{
+	background-image: url("images/lerencomp.jpg");
 }
 
 /* coll */ 
@@ -274,6 +349,23 @@ h2{
 
 /* News (rss) */
 
+/* School of Business */
+
+.tekstbusiness{
+margin-left:170px;
+width:100%;
+}
+
+.wrapperbusiness{
+padding:10px;
+}
+
+.wrapperbusiness img{
+padding:10px;
+height:310px;
+width:660px;
+}
+
 #news h2{
     font-family: Verdana;
     color: #ff5e00;
@@ -308,6 +400,18 @@ h2{
     background-size: contain;
 }
 
+@media only screen and (max-width: 700px) {
+	#header_image{
+		position: relative;
+	    background: url(images/harambe_logo.png) no-repeat;
+		background-size: auto 90%;
+		width: 100%;
+		background-position: center center;
+		height: 200px;
+	}
+}
+
+
 /* nav bar */
 #header_inner #navigator{
 	margin-left: 15%;
@@ -315,12 +419,24 @@ h2{
 	
 	background-color: white;
 }
+
+@media only screen and (max-width: 700px) {
+	#header_inner #navigator{
+		margin: 3%;
+	}
+}
+
+
 #header_inner #navigator li{
     float: left;
     margin-top: 40px;
     margin-left: 10px;
     margin-right: 10px;
-    font-size: 25px;
+    font-size: 23px;
+}
+
+#header_inner #navigator li.right{
+    float: right;
 }
 
 #header_inner #navigator li a{
@@ -328,50 +444,167 @@ h2{
     text-decoration: none;
 }
 
+#header_inner #navigator li a #flag_dutch{
+    color: rgba(255, 255, 255, 0);
+    text-decoration: none;
+    background-repeat: no-repeat;
+    background: url(images/nederlandsevlag.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+	background-position: center center;
+}
+
+#header_inner #navigator li a #flag_english{
+    color: rgba(255, 255, 255, 0);
+    text-decoration: none;
+    background-repeat: no-repeat;
+    background: url(images/engelsevlag.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+	background-position: center center;
+}
+
 
 /* galerij */
-
 .galerij .control{
 	width: 33.33%;
-    float: left;
-    position: relative;
+	float: left;
+	position: relative;
 	min-height: 1px;
 	text-align: center;
 }
 
 .galerij .coll-90{
-    width: calc(90% - 4px);
-    height: 300px;
-    border: 2px solid blue;
-    border-radius: 20px;
-    margin-top: 10px;
+	width: calc(90% - 4px);
+	height: 300px;
+	border: 2px solid #ff5e00;
+	border-radius: 20px;
+	margin-top: 10px;
 	margin: 0 auto;
 }
 
 .galerij .vert-90{
-    height: calc(90% - 4px);
-    width: 100%;
-    float: left;
-    position: relative;
-    border-bottom: 2px solid blue;
-    border-radius: 20px;
-    background-size: cover;
+	height: calc(90% - 4px);
+	width: 100%;
+	float: left;
+	position: relative;
+	border-bottom: 2px solid #ff5e00;
+	border-radius: 20px;
+	background-size: cover;
 	background-position: center center;
 }
 
 .galerij .vert-10{
-    height: 10%;
-    width: 100%;
-    float:left;
+	height: 10%;
+	width: 100%;
+	text-align: center;
+	float:left;
 }
 
-.galerij .vert-10 p{
-    text-align: center;
+/* breadcrumbs */
+#breadcrumbs a{
+	text-decoration: none;
+	color: black;
 }
 
+#breadcrumbs a:hover{
+	color: #ff5e00;
+}
+
+#breadcrumbs a:last-child {
+    color: #ff5e00;
+}
+
+#breadcrumbs a:after
+{
+  content: ' > ';
+  color: black;
+}
+#breadcrumbs a:last-child:after
+{
+  content: '';
+}
+
+/* Footer */
+#footer .footerlists {
+	color: white;
+}
+
+#footer .lijstjes {
+	color: white;
+}
+
+#footer .smlogos {
+	padding: 5px;
+	float: right;
+	width: 50px;
+	height: 50px;
+}
+
+#footer ul {
+    list-style: none;
+    padding-bottom: 20px;
+    margin: 5px;
+	color: white;
+	padding: 5px;
+}
+
+#footer li {
+    padding-left: 16px;
+	color: white;
+	padding: 5px;
+}
+
+#footer li:before {
+    content: ">";
+    padding-right: 8px;
+	color: white;
+}
+
+#footer a{
+	text-decoration: none;
+	color: white;
+}
+
+.form2{
+	color: blue;
+}
+
+/* Contact */
+.contactformulier .form textarea{
+    height:100px;
+    width:350px;
+    resize:none;
+}
+ 
+.contactformulier .form2{
+    color:red;
+    padding:10px;
+}
+
+.contactformulier .form input,
+.contactformulier .form textarea{
+    color: #000000;
+    border: 0;
+    border-bottom: 2px solid #e2e2e2;
+    background-color: #fbfafc;
+    outline: 0;
+}
+
+.contactformulier .form input[type="submit"] { 
+    background-color: #ff5e00;
+    width: 100px;
+    height: 40px;
+    color: white;
+    font-size: 17px;
+}
+
+.contactformulier .form input:focus,
+.contactformulier .form textarea:focus{
+	border-bottom: #ff5e00 2px solid;
+}
 
 /* global content margin! */
-
 .contentMargin{
 	margin:8px;
 	width: calc(100% - 16px);

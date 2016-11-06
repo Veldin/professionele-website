@@ -50,8 +50,39 @@ class Core {
 	//Functie die de breadcrumbs terug geeft
 	function breadcrumbs(){
 		//TODO: make this function xD
-	
-		return 'breadcrumbs';
+		global $core;
+		
+		$crumb['Home'] = "<a href='index.php'>Home</a>";
+		$crumb['Galerij'] = "<a href='index.php?p=galerij'>Galerij</a>";
+		$crumb['Contact'] = "<a href='index.php?p=contactformulier'>Contact</a>";
+		$crumb['Imageuploading'] = "<a href='index.php?p=Imageuploading'>Imageuploading</a>";
+		$crumb['School_of_business'] = "<a href='index.php?p=School_of_Business'>School of Business</a>";
+		$crumb['School_of_technology'] = "<a href='index.php?p=School_of_Technology'>School_of_Technology</a>";
+		
+		//Order of breadcrumbs
+		switch (strtolower($core->paginaTitel())) {
+			case 'home':
+				return $crumb['Home'];
+				break;
+			case 'galerij':
+				return $crumb['Home'].$crumb['Galerij'];
+				break;
+			case 'contactformulier':
+				return $crumb['Home'].$crumb['Contact'];
+				break;
+			case 'imageuploading':
+				return $crumb['Home'].$crumb['Galerij'].$crumb['Imageuploading'];
+				break;	
+			case 'school_of_business':
+				return $crumb['Home'].$crumb['School_of_business'];
+				break;		
+			case 'school_of_technology':
+				return $crumb['Home'].$crumb['School_of_technology'];
+				break;
+			default:
+				return $crumb['Home'];
+				break;
+		}
 	}
 	
 	//Functie om de taal te veranderen
@@ -69,6 +100,7 @@ class Core {
 			echo '<style>.dutch{display:none;}</style>';
 		}else{
 			echo '<style>.english{display:none;}</style>';
+			
 		}
 	}
 	
@@ -175,12 +207,21 @@ class Core {
         //Strips content of defined tag.
            $sub = substr($varS[1], 0, $length);
            
+<<<<<<< HEAD
            if ($strip !== true) {
             $final = strip_tags($sub);
            }
            else {
                $final = $sub;
            }
+=======
+          // if ($strip !== true) {
+            $final = strip_tags($sub);
+           //}
+          // else {
+            //   $final = $sub;
+           //}
+>>>>>>> refs/remotes/origin/master
         //Makes a string with all the stripped content.   
            $list = $list . "&&" . $final;
         }
@@ -188,10 +229,17 @@ class Core {
         return $list;
         
     }   
+<<<<<<< HEAD
          
     function imageuploading() {
         global $core;
         $target_dir = "images\uploads\\";  
+=======
+	
+	function imageuploading() {
+        global $core;
+        $target_dir = "images/uploads//";  
+>>>>>>> refs/remotes/origin/master
         // Check if image file is an actual image or fake image
         if(isset($_POST["submit"])) {
             $check = getimagesize($_FILES["fileToUpload"]["tmp_name"]);
@@ -230,8 +278,14 @@ class Core {
     }
     
     function renameimage($target_file, $target_dir, $imageFileType) {
+<<<<<<< HEAD
         $title = htmlspecialchars($_POST["title"]);
         $dirarray = scandir("images\submitted\\");
+=======
+        $output = htmlspecialchars($_POST["title"]);
+        $title = str_replace(" ","_", $output);
+        $dirarray = scandir("images/submitted");
+>>>>>>> refs/remotes/origin/master
         natsort($dirarray);
         $dirarray = array_values($dirarray);
         if (array_key_exists(2, $dirarray)) {
@@ -248,6 +302,10 @@ class Core {
             rename($target_file, $target_dir . "1&&" . $title . "." . $imageFileType);
         }
         return;
+<<<<<<< HEAD
     }   
+=======
+    } 
+>>>>>>> refs/remotes/origin/master
 }
 ?>
