@@ -61,11 +61,14 @@ h2{
 }
 
 #headimage{
-	background-color: gray;
-	width: 100%;
-	min-height: 550px;
-	background-image: url("images/slide2.png");
-	background-size: cover;
+    background-color: gray;
+    width: 100%;
+    min-height: 550px;
+    background-image: url(images/slide2.png);
+    background-size: cover;
+    background-position: 20%;
+    margin: 0 auto;
+    max-width: 1920px;
 }
 
 #content{
@@ -90,6 +93,16 @@ h2{
 	min-height: 280px;
 	background-color: #ff5e00;
 }
+
+@media only screen and (max-width: 1400px) {
+	#headimage{
+		min-height: 480px;
+	}
+	#content{
+		top:initial;
+	}
+}
+
 
 /* image divs */ 
 .img_big,
@@ -386,6 +399,18 @@ width:660px;
     background-size: contain;
 }
 
+@media only screen and (max-width: 700px) {
+	#header_image{
+		position: relative;
+	    background: url(images/harambe_logo.png) no-repeat;
+		background-size: auto 90%;
+		width: 100%;
+		background-position: center center;
+		height: 200px;
+	}
+}
+
+
 /* nav bar */
 #header_inner #navigator{
 	margin-left: 15%;
@@ -393,6 +418,14 @@ width:660px;
 	
 	background-color: white;
 }
+
+@media only screen and (max-width: 700px) {
+	#header_inner #navigator{
+		margin: 3%;
+	}
+}
+
+
 #header_inner #navigator li{
     float: left;
     margin-top: 40px;
