@@ -517,18 +517,18 @@ class Pages {
 						</ul>
 						</p>';
 						
-					echo '<p class="lijstjes dutch";>Afstuderen bij het Harambe College';
+					echo '<p class="lijstjes dutch">Afstuderen bij het Harambe College';
 					echo '
-						<ul class="footerlists dutch";>
+						<ul class="footerlists dutch">
 							<li class="dutch"><a href="index.php?p=bedrijfs_economie">Bedrijfs Economie</a></li>
 							<li class="dutch"><a href="index.php?p=Business_Information_Management">Business Information Management</a></li>
 							<li class="dutch"><a href="index.php?p=Civiele_Techniek_en_Waterbouw">Civiele Techniek en Waterbouw</a></li>
 							<li class="dutch"><a href="index.php?p=Informatica">Informatica</a></li>
 						</ul>
 						</p>';
-					echo '<p class="lijstjes english";>Graduate at Harambe College';
+					echo '<p class="lijstjes english">Graduate at Harambe College';
 					echo '
-						<ul class="footerlists english";>
+						<ul class="footerlists english">
 							<li class="english"><a href="index.php?p=bedrijfs_economie">Business Economy</a></li>
 							<li class="english"><a href="index.php?p=Business_Information_Management">Business Information Management</a></li>
 							<li class="english"><a href="index.php?p=Civiele_Techniek_en_Waterbouw">Civil Tech and Engineering</a></li>
@@ -537,24 +537,24 @@ class Pages {
 						</p>';
 				echo '</div>';
 				echo '<div class="coll-50">';
-					echo '<p class="lijstjes dutch";>Organisatie';
+					echo '<p class="lijstjes dutch">Organisatie';
 					echo ' 
-						<ul class="footerlists dutch";>
+						<ul class="footerlists dutch">
 							<li class="dutch"><a href="index.php?p=about">Over het Harambe College</a></li>
 							<li class="dutch"><a href="index.php?p=contact">Contact Formulier</a></li>
 							<br>
 						</ul>
 						</p>';
-					echo '<p class="lijstjes english";>Organisation';
+					echo '<p class="lijstjes english">Organisation';
 					echo ' 
-						<ul class="footerlists english";>
+						<ul class="footerlists english">
 							<li class="english"><a href="index.php?p=about">About Harambe College</a></li>
 							<li class="english"><a href="index.php?p=contact">Contact</a></li>
 							<br>
 						</ul>
 						</p>';
 						
-					echo '<p class="lijstjes dutch";>Kies taal / Switch languages';
+					echo '<p class="lijstjes dutch">Kies taal / Switch languages';
 					echo '
 						<ul class="footerlists dutch">
 							<li class="dutch"><a href="index.php?p='.$core->paginaTitel(false).'&t=nl">Nederlands / Dutch</a></li>
