@@ -1,0 +1,396 @@
+1478559368
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - Home]]></title>
+        <description><![CDATA[BBC News - Home]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - Home</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Mon, 07 Nov 2016 22:35:36 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[US election 2016: Trump team tries to ease global concern]]></title>
+            <description><![CDATA[Donald Trump's team seeks to allay negative views of their candidate overseas, as polling looms.]]></description>
+            <link>http://www.bbc.co.uk/news/election-us-2016-37900080</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/election-us-2016-37900080</guid>
+            <pubDate>Mon, 07 Nov 2016 21:56:25 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/7C39/production/_92310813_mediaitem92310812.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Police name Pentonville fugitives as James Whitlock and Matthew Baker]]></title>
+            <description><![CDATA[Two men who escaped from Pentonville prison have been named, as police warn not to approach them.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-37902148</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-37902148</guid>
+            <pubDate>Mon, 07 Nov 2016 18:48:55 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8EEE/production/_92309563_prisoners.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Veteran broadcaster Sir Jimmy Young dies aged 95]]></title>
+            <description><![CDATA[Veteran broadcaster Sir Jimmy Young - who spent almost three decades at BBC Radio 2 - has died.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-37903108</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-37903108</guid>
+            <pubDate>Mon, 07 Nov 2016 20:50:26 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/9E67/production/_92315504_49b4874a-7f8f-4f4d-b48d-f52cb29a3027.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Defence review to see dozens of sites close]]></title>
+            <description><![CDATA[The government is to sell off 56 more sites by 2040 as part of a review of Ministry of Defence land.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-37902141</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-37902141</guid>
+            <pubDate>Mon, 07 Nov 2016 18:56:21 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/171CE/production/_92307649_91c8a68a-7364-426f-b4d3-81500fede9a7.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brexit must happen on time, Theresa May insists]]></title>
+            <description><![CDATA[Theresa May says she is "clear" that talks on quitting the EU will start by the end of March.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-37890199</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-37890199</guid>
+            <pubDate>Mon, 07 Nov 2016 17:03:47 GMT</pubDate>
+            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/7224/production/_92302292_newmay.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BA will add extra seats in economy cabins]]></title>
+            <description><![CDATA[British Airways plans to add extra seats into each economy class row on its Boeing 777 aircraft.]]></description>
+            <link>http://www.bbc.co.uk/news/business-37902468</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-37902468</guid>
+            <pubDate>Mon, 07 Nov 2016 18:15:54 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/12282/production/_92307347_britishairways_21686990033767.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ATP World Tour Finals: Andy Murray to open against Marin Cilic]]></title>
+            <description><![CDATA[World number one Andy Murray will open his ATP World Tour Finals campaign against Croatia's Marin Cilic next Monday.]]></description>
+            <link>http://www.bbc.co.uk/sport/tennis/37900315</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/tennis/37900315</guid>
+            <pubDate>Mon, 07 Nov 2016 15:27:57 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/C792/production/_92309015_036260733.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UN: 'Grave' disability rights violations under UK reforms]]></title>
+            <description><![CDATA[UK welfare reforms have led to "grave violations" of disabled people's rights, a UN inquiry finds.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-37899305</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-37899305</guid>
+            <pubDate>Mon, 07 Nov 2016 21:18:32 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/04D9/production/_92314210_e915c16a-6da3-42de-acb4-4e115c0c904b.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tesco Bank blames 'systematic sophisticated attack' for account losses]]></title>
+            <description><![CDATA[Tesco Bank's boss blames "a systematic, sophisticated attack" for the money taken from 20,000 customer accounts.]]></description>
+            <link>http://www.bbc.co.uk/news/business-37891742</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-37891742</guid>
+            <pubDate>Mon, 07 Nov 2016 18:30:36 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/03B6/production/_92305900_tesco_afp-2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sports Direct 'bugged' our visit to Shirebrook warehouse, say MPs]]></title>
+            <description><![CDATA[MPs from the Business and Skills Committee claim an attempt was made to record private discussions after a surprise visit to Sports Direct's Shirebrook warehouse.]]></description>
+            <link>http://www.bbc.co.uk/news/business-37899067</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-37899067</guid>
+            <pubDate>Mon, 07 Nov 2016 18:16:29 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/15F45/production/_91352998_mediaitem91352997.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Neymar: Barcelona footballer's fraud trial should go ahead, says judge]]></title>
+            <description><![CDATA[Barcelona's Brazil international footballer Neymar faces a fraud trial after judge overturns decision to dismiss charges.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-37897739</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-37897739</guid>
+            <pubDate>Mon, 07 Nov 2016 16:56:10 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/17319/production/_92310059_1fcad173-5be4-425b-a44e-44ff5b20e9a3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cancer lie military clerk Simon Buckden jailed]]></title>
+            <description><![CDATA[A former military clerk who lied about having cancer to swindle victims out of money and services worth more than £7,500 is jailed for 16 months.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-leeds-37895322</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-leeds-37895322</guid>
+            <pubDate>Mon, 07 Nov 2016 17:29:29 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/14C55/production/_92277058_buckden.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Veteran broadcaster Sir Jimmy Young dies aged 95]]></title>
+            <description><![CDATA[The long-serving DJ, who spent almost three decades at BBC Radio 2, died "peacefully at home" on Monday afternoon with his wife Alicia by his side, a family spokesman said.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-37901949</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-37901949</guid>
+            <pubDate>Mon, 07 Nov 2016 20:19:40 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/B75D/production/_92314964_p04fjn7c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How US politics got left behind]]></title>
+            <description><![CDATA[On Tuesday the US may elect its first female leader. Dozens of other countries got their first.]]></description>
+            <link>http://www.bbc.co.uk/news/election-us-2016-37877873</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/election-us-2016-37877873</guid>
+            <pubDate>Mon, 07 Nov 2016 02:47:05 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/6144/production/_92300942_p04ff3z9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[May 'clear' she expects to trigger Article 50 by March 2017]]></title>
+            <description><![CDATA[Theresa May tells the BBC she is "clear" she expects to be able to trigger Article 50 by March 2017.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-37901315</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-37901315</guid>
+            <pubDate>Mon, 07 Nov 2016 17:31:33 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/15C84/production/_92302298_p04fj4w1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bataclan attack: Nick Alexander's family recall tragedy]]></title>
+            <description><![CDATA[The family of the only British victim of the Paris nightclub attack a year ago have told of seeing the terror incident unfold in "real time".]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-essex-37894539</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-essex-37894539</guid>
+            <pubDate>Mon, 07 Nov 2016 08:14:31 GMT</pubDate>
+            <media:thumbnail width="660" height="371" url="http://c.files.bbci.co.uk/3FC0/production/_92302361__92276759_img_9473.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Keeping sharks at bay during ocean swim]]></title>
+            <description><![CDATA[A British man is due to begin his challenge to become the first person to swim across the Atlantic Ocean]]></description>
+            <link>http://www.bbc.co.uk/news/uk-37894349</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-37894349</guid>
+            <pubDate>Mon, 07 Nov 2016 14:28:03 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/141EB/production/_92311428_mediaitem92311426.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hidden twin mum's joy after 'miracle baby' defies odds]]></title>
+            <description><![CDATA[The parents of a baby boy are celebrating his arrival after he beat odds of 1 in 30,000 to be born.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-england-coventry-warwickshire-37899811</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-coventry-warwickshire-37899811</guid>
+            <pubDate>Mon, 07 Nov 2016 16:58:12 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/132F4/production/_92308587_p04fj1pm.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tesco Bank attack: Thefts erode trust warns expert]]></title>
+            <description><![CDATA[A leading cybersecurity expert says thefts from Tesco Bank's online accounts are unlike anything he has ever seen before.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-37899900</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-37899900</guid>
+            <pubDate>Mon, 07 Nov 2016 14:12:24 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/BCFC/production/_92308384_mediaitem92308383.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cancer survivor: 'I was sacked for having lymphoma']]></title>
+            <description><![CDATA[Cancer survivor Terry Foster, 58, tells the BBC's Victoria Derbyshire programme he was sacked after being diagnosed with lymphoma, as his company felt he “wouldn't be able to handle the stress of the job”.]]></description>
+            <link>http://www.bbc.co.uk/news/health-37889171</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/health-37889171</guid>
+            <pubDate>Mon, 07 Nov 2016 00:08:32 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/0C1B/production/_92299030_p04fdf9z.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BBC News Channel]]></title>
+            <description><![CDATA[Britain's most-watched news channel, delivering breaking news and analysis all day, every day.]]></description>
+            <link>http://www.bbc.co.uk/news/10318089</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/10318089</guid>
+            <pubDate>Wed, 16 Mar 2016 12:34:37 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://news.bbcimg.co.uk/media/images/83122000/png/_83122356_globe_2048x1152.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Adobe Voco 'Photoshop-for-voice' causes concern]]></title>
+            <description><![CDATA[A new tool that makes it possible for computers to mimic a specific person's voice causes alarm.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-37899902</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-37899902</guid>
+            <pubDate>Mon, 07 Nov 2016 18:32:44 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/16EF5/production/_92314939_mediaitem92309868.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nuclear weapon missing since 1950 'may have been found']]></title>
+            <description><![CDATA[A diver off the west coast of Canada may have found a US nuclear weapon missing since 1950.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-37875697</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-37875697</guid>
+            <pubDate>Mon, 07 Nov 2016 22:13:52 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/63FD/production/_92279552_img_0050.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[John Ware: The trouble with our trains]]></title>
+            <description><![CDATA[Panorama's John Ware examines the state of Britain's rail system.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-37835087</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-37835087</guid>
+            <pubDate>Mon, 07 Nov 2016 01:36:42 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0FA1/production/_92210040_hi035922448.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mark Lowen: Is Turkey still a democracy?]]></title>
+            <description><![CDATA[As opponents are purged and journalists jailed, can Erdogan's Turkey still be called a democracy?]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-37883006</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-37883006</guid>
+            <pubDate>Sat, 05 Nov 2016 13:40:09 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B340/production/_92288854_erdogan2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tesco Bank attack: What do we know?]]></title>
+            <description><![CDATA[As Tesco suspends some aspects of its online bank thanks to "online criminal activity", what is known about the attack so far?]]></description>
+            <link>http://www.bbc.co.uk/news/technology-37896273</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-37896273</guid>
+            <pubDate>Mon, 07 Nov 2016 13:31:28 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/7FF8/production/_92306723_mediaitem92306722.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reality Check: How do students affect migration stats?]]></title>
+            <description><![CDATA[Are students included in long-term migration statistics?]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-37897476</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-37897476</guid>
+            <pubDate>Mon, 07 Nov 2016 16:19:28 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/1D1A/production/_92305470_gettyimages-492436412.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Could pro-Remain MPs and peers scupper Brexit?]]></title>
+            <description><![CDATA[If the government has to put legislation to trigger Article 50 to the vote - could pro-Remain MPs see off Brexit?]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-37877128</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-37877128</guid>
+            <pubDate>Fri, 04 Nov 2016 16:09:14 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/07FD/production/_92254020_papers_afp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Reality Check: Did a million people use food banks?]]></title>
+            <description><![CDATA[Food bank use is on the rise but the figure is closer to 550,000 people than the million claimed by Mr Corbyn.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-politics-37875675</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-37875675</guid>
+            <pubDate>Fri, 04 Nov 2016 15:52:55 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/68D5/production/_92273862_mediaitem92273861.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Week in pictures: 29 October - 4 November 2016]]></title>
+            <description><![CDATA[A selection of the best news photographs from around the world, taken over the past week.]]></description>
+            <link>http://www.bbc.co.uk/news/in-pictures-37873362</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/in-pictures-37873362</guid>
+            <pubDate>Sat, 05 Nov 2016 00:33:22 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/DBBF/production/_92255265_8651128d-7b17-4c2c-9582-9bfa40f349e5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[In pictures: Trail showcases Glasgow murals]]></title>
+            <description><![CDATA[A new Mural Trail in Glasgow aims to showcase artwork which is revitalising tired corners of the city centre.]]></description>
+            <link>http://www.bbc.co.uk/news/uk-scotland-glasgow-west-37859621</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-scotland-glasgow-west-37859621</guid>
+            <pubDate>Thu, 03 Nov 2016 16:19:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/33BE/production/_92164231_mediaitem92162762.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Your pictures]]></title>
+            <description><![CDATA[Each week, we publish a gallery of readers' pictures on a set theme. This week, we asked for your pictures on the theme of "Monuments".]]></description>
+            <link>http://www.bbc.co.uk/news/in-pictures-37859193</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/in-pictures-37859193</guid>
+            <pubDate>Fri, 04 Nov 2016 08:05:02 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/158A1/production/_92252288_821456.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ Iraqi forces enter Mosul]]></title>
+            <description><![CDATA[Images of Iraqi special forces as they fight their way into the Mosul suburbs for the first time.]]></description>
+            <link>http://www.bbc.co.uk/news/world-middle-east-37860422</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-middle-east-37860422</guid>
+            <pubDate>Thu, 03 Nov 2016 15:02:51 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1AA8/production/_92242860_mediaitem92242851.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lake Eyre from the sky]]></title>
+            <description><![CDATA[Australia’s vast Kati Thanda-Lake Eyre has been captured in a series of spectacular aerial images for a new exhibition.]]></description>
+            <link>http://www.bbc.co.uk/news/world-australia-37857598</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-australia-37857598</guid>
+            <pubDate>Thu, 03 Nov 2016 09:57:02 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0E4F/production/_92236630_ignaciopalacios_katithandalakeeyre_depotgallery_2016_006.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jose Mourinho: Gareth Southgate defends Chris Smalling and Luke Shaw]]></title>
+            <description><![CDATA[England interim boss Gareth Southgate defends Manchester United duo Chris Smalling and Luke Shaw after criticism from Jose Mourinho.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/37904361</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/37904361</guid>
+            <pubDate>Mon, 07 Nov 2016 22:30:36 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/A9BB/production/_92315434_shawandsmalling_getty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cristiano Ronaldo: Real Madrid forward 'has 10 years' left]]></title>
+            <description><![CDATA[Cristiano Ronaldo signs a new five-year deal with Real Madrid and says he has another 10 years left as a player - taking him to 41.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/37890876</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/37890876</guid>
+            <pubDate>Mon, 07 Nov 2016 14:14:49 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/AE88/production/_92308644_ronaldospecs_getty.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[WSL crowds: Manchester City average more than 2,000 but three top clubs see decreases]]></title>
+            <description><![CDATA[Manchester City become the first women's club in British football to average crowds of more than 2,000 over a season.]]></description>
+            <link>http://www.bbc.co.uk/sport/football/37862713</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/37862713</guid>
+            <pubDate>Mon, 07 Nov 2016 18:25:39 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/1357E/production/_92303297_lucy_bronze.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who is England cricket's best ever Test captain?]]></title>
+            <description><![CDATA[As Alastair Cook prepares to break Michael Atherton's record for the number of times captaining England, we ask you to rank your top five of all time.]]></description>
+            <link>http://www.bbc.co.uk/sport/cricket/37896533</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/cricket/37896533</guid>
+            <pubDate>Mon, 07 Nov 2016 11:31:29 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/325A/production/_92309821_captains.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Obituary: Jimmy Young]]></title>
+            <description><![CDATA[Veteran disc jockey who began his showbiz career as a crooner.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-20582848</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-20582848</guid>
+            <pubDate>Mon, 07 Nov 2016 19:58:05 GMT</pubDate>
+            <media:thumbnail width="768" height="432" url="http://news.bbcimg.co.uk/media/images/64551000/jpg/_64551921_64551920.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tesco Bank attack]]></title>
+            <description><![CDATA[While there are steps you can take against traditional bank fraud, stopping a Tesco-style attack is much harder]]></description>
+            <link>http://www.bbc.co.uk/news/business-37895172</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-37895172</guid>
+            <pubDate>Mon, 07 Nov 2016 12:48:44 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/EB64/production/_92306206_thinkstockphotos-178400160.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Working for free]]></title>
+            <description><![CDATA[French women were urged to walk out of work at 16:37 local time to highlight the gender pay gap.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-37894042</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-37894042</guid>
+            <pubDate>Mon, 07 Nov 2016 17:59:39 GMT</pubDate>
+            <media:thumbnail width="537" height="302" url="http://c.files.bbci.co.uk/DED0/production/_92304075_7b88c757-eec3-4e00-b012-439cce0cf4c0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Speed reading]]></title>
+            <description><![CDATA[Donald Trump says the FBI couldn't review 650,000 emails linked to Hillary Clinton in eight days - is he right?]]></description>
+            <link>http://www.bbc.co.uk/news/election-us-2016-37894195</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/election-us-2016-37894195</guid>
+            <pubDate>Mon, 07 Nov 2016 14:32:38 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1694A/production/_92309429_emails.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Something beautiful?]]></title>
+            <description><![CDATA[Andy Murray becoming world number one could be the start of something even more beautiful, says Tom Fordyce.]]></description>
+            <link>http://www.bbc.co.uk/sport/tennis/37882468</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/sport/tennis/37882468</guid>
+            <pubDate>Mon, 07 Nov 2016 06:32:17 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/352A/production/_92301631_hi033998575.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Station Road]]></title>
+            <description><![CDATA[Douglas and Anne in Station Road, Eccles, are trying to swap their housing association house for a bungalow.]]></description>
+            <link>http://www.bbc.co.uk/news/magazine-37852015</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/magazine-37852015</guid>
+            <pubDate>Mon, 07 Nov 2016 13:07:51 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/184AC/production/_92300599_p04fdvkc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The gender gap]]></title>
+            <description><![CDATA[Only 8% of engineers in the UK are women. Why are efforts to get more girls to choose it as a career failing?]]></description>
+            <link>http://www.bbc.co.uk/news/business-37254851</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/business-37254851</guid>
+            <pubDate>Mon, 07 Nov 2016 15:24:26 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/138B2/production/_92305008_engineergirls1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Channel Kremlin]]></title>
+            <description><![CDATA[Many Russians completely disbelieve what television news tells them - but keep watching anyway. Why?]]></description>
+            <link>http://www.bbc.co.uk/news/magazine-37871543</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/magazine-37871543</guid>
+            <pubDate>Mon, 07 Nov 2016 10:09:13 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/95D3/production/_92255383_gettyimages-108427921.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Who's ahead in the polls?]]></title>
+            <description><![CDATA[Follow the opinion polls as Donald Trump and Hillary Clinton go to head-to-head in the run up to the US election on 8 November.]]></description>
+            <link>http://www.bbc.co.uk/news/election-us-2016-37450661</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/election-us-2016-37450661</guid>
+            <pubDate>Mon, 07 Nov 2016 15:49:29 GMT</pubDate>
+            <media:thumbnail width="624" height="351" url="http://c.files.bbci.co.uk/15F0A/production/_91466898_us_election_2016_polltracker_online_promo.png"/>
+        </item>
+    </channel>
+</rss>

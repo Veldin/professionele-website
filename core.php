@@ -49,18 +49,46 @@ class Core {
 	
 	//Functie die de breadcrumbs terug geeft
 	function breadcrumbs(){
-		//TODO: make this function xD
 		global $core;
 		
+		//Mogelijke crumbs
 		$crumb['Home'] = "<a href='index.php'>Home</a>";
-		$crumb['Galerij'] = "<a href='index.php?p=galerij'>Galerij</a>";
+		$crumb['Galerij'] = "<a href='index.php?p=galerij'>
+		<span class='dutch'>Galerij</span>
+		<span class='english'>Gallery</span>
+		</a>";
 		$crumb['Contact'] = "<a href='index.php?p=contactformulier'>Contact</a>";
-		$crumb['Imageuploading'] = "<a href='index.php?p=Imageuploading'>Imageuploading</a>";
-		$crumb['School_of_business'] = "<a href='index.php?p=School_of_Business'>School of Business</a>";
-		$crumb['School_of_technology'] = "<a href='index.php?p=School_of_Technology'>School_of_Technology</a>";
+		$crumb['Imageuploading'] = "<a href='index.php?p=Imageuploading'>Image uploading</a>";
 		
-		//Order of breadcrumbs
-		switch (strtolower($core->paginaTitel())) {
+		$crumb['School_of_business'] = "<a href='index.php?p=School_of_Business'>
+		<span>School of Business</span>
+		</a>";
+		
+		$crumb['bedrijfs_economie'] = "<a href='index.php?p=bedrijfs_economie'>
+		<span class='dutch'>Bedrijfs Economie</span>
+		<span class='english'>Business Economics</span>
+		</a>";
+		
+		$crumb['business_information_management'] = "<a href='index.php?p=School_of_Business'>
+		<span>Business Information Management</span>
+		</a>";
+		
+		$crumb['School_of_technology'] = "<a href='index.php?p=School_of_Technology'>
+		<span>School of Technology</span>
+		</a>";
+		
+		$crumb['civiele_techniek_en_waterbouw'] = "<a href='index.php?p=Civiele_Techniek_en_Waterbouw'>
+		<span class='dutch'>Civiele Techniek en Waterbouw</span>
+		<span class='english'>Civil Tech and Engineering</span>
+		</a>";
+		
+		$crumb['Informatica'] = "<a href='index.php?p=Informatica'>
+		<span class='english'>Computer sciences</span>
+		<span class='dutch'>Informatica</span>
+		</a>";
+		
+		//Sorteren van crumbs om breadcrumbs te maken.
+		switch (strtolower($core->paginaTitel(false))) {
 			case 'home':
 				return $crumb['Home'];
 				break;
@@ -75,9 +103,21 @@ class Core {
 				break;	
 			case 'school_of_business':
 				return $crumb['Home'].$crumb['School_of_business'];
-				break;		
+				break;	
+			case 'bedrijfs_economie':
+				return $crumb['Home'].$crumb['School_of_business'].$crumb['bedrijfs_economie'];
+				break;	
+			case 'business_information_management':
+				return $crumb['Home'].$crumb['School_of_business'].$crumb['business_information_management'];
+				break;					
 			case 'school_of_technology':
 				return $crumb['Home'].$crumb['School_of_technology'];
+				break;
+			case 'civiele_techniek_en_waterbouw':
+				return $crumb['Home'].$crumb['School_of_technology'].$crumb['civiele_techniek_en_waterbouw'];
+				break;
+			case 'informatica':
+				return $crumb['Home'].$crumb['School_of_technology'].$crumb['Informatica'];
 				break;
 			default:
 				return $crumb['Home'];
@@ -150,41 +190,30 @@ class Core {
 		return $output;
 	}
 	
-	//Function to strip content from rss feeds.
-    /* function fetch($rssFeed, $start){
-    	//define the tags.
-    	$tagS = "<" . $start . ">";
-    	$tagE = "</" . $start . ">";
-    	//
-    	$rssString = explode("<item>", $rssFeed);
-    	$tagELen = strlen($tagE);
+	function setGoogleMapLocation($street, $place, $windowText)
+	{
+		require_once "EasyGoogleMap.class.php";
 
-    	//Initialisation of list.
-    	$list = array();
+		$googlemaps_api_key = "AIzaSyDM_k10aRxmq30_Zvf2Syu32EDnjWTdyT8";
 
-
-    	//Defines what chars to strip.
-        foreach($rssString as $article){
-            $varS = explode($tagS, $article);
-            $varE = explode($tagE, $article);
-            $varELen = strlen($varE[1]);
-            $varSLen = strlen($varS[1]);
-            $length = $varSLen - $varELen - $tagELen;
-
-        //Strips content of defined tag.
-           $sub = substr($varS[1], 0, $length);
-		   
-        //Push entry in array 
-		   array_push($list, $sub);
-
-        }
+		$gm = & new EasyGoogleMap($googlemaps_api_key);
 		
-        //returns array with entries.
-        return $list;
-	} */
-	
-		//Function to strip content from rss feeds.
-    function fetch($rssFeed, $start){
+		$gm->SetAddress($street . " , " . $place);
+		$gm->SetInfoWindowText($windowText);
+		$gm->mMapType = TRUE;
+		$gm->SetMapWidth("300");
+		$gm->SetMapHeight("300");
+		
+		echo $gm->GmapsKey();
+		
+		echo $gm->GetSideClick();
+		echo $gm->MapHolder();
+		echo $gm->InitJs();
+		echo $gm->UnloadMap();
+	}
+
+	//Function to strip content from rss feeds.
+    function fetch($rssFeed, $start, $strip){
     	//define the tags.
     	$tagS = "<" . $start . ">";
     	$tagE = "</" . $start . ">";
@@ -207,12 +236,12 @@ class Core {
         //Strips content of defined tag.
            $sub = substr($varS[1], 0, $length);
            
-          // if ($strip !== true) {
+           if ($strip == true) {
             $final = strip_tags($sub);
-           //}
-          // else {
-            //   $final = $sub;
-           //}
+           }
+           else {
+               $final = $sub;
+           }
         //Makes a string with all the stripped content.   
            $list = $list . "&&" . $final;
         }
@@ -224,7 +253,7 @@ class Core {
 	function imageuploading() {
         global $core;
         $target_dir = "images/uploads//";  
-        // Check if image file is an actual image or fake image
+        // Check if image file is an actual image
         if(isset($_POST["submit"])) {
             $check = getimagesize($_FILES["fileToUpload"]["tmp_name"]);
             if($check !== false) {
@@ -248,6 +277,7 @@ class Core {
         }
     }
      
+	//Controleren of het geselecteerde bestand een afbeelding is.
     function imagecheck($imageFileType, $target_file) { 
         if ($_FILES["fileToUpload"]["size"] > 500000) {
             echo "Sorry, your file is too large.<br>";
@@ -261,6 +291,7 @@ class Core {
         }
     }
     
+	//Hernoemen van bestanden.
     function renameimage($target_file, $target_dir, $imageFileType) {
         $output = htmlspecialchars($_POST["title"]);
         $title = str_replace(" ","_", $output);

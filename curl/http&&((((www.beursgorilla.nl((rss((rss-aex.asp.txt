@@ -1,4 +1,4 @@
-1478267039
+1478597526
 
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
@@ -27,43 +27,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;27,82&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-up.gif"&gt;&lt;font style="color:#008400;"&gt;28,26&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;28,09&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;28,35&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;-1,14&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;0,09&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;27,75&lt;/td&gt;
+										&lt;td align="right"&gt;28,22&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;-0,32&lt;/td&gt;
+										&lt;td align="right"&gt;0,03&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;27,82&lt;/td&gt;
+										&lt;td align="right"&gt;28,24&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;28,07&lt;/td&gt;
+										&lt;td align="right"&gt;28,30&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;27,85&lt;/td&gt;
+										&lt;td align="right"&gt;28,27&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;28,14&lt;/td&gt;
+										&lt;td align="right"&gt;28,24&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;80.125&lt;/td&gt;
+										&lt;td align="right"&gt;31.836&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
@@ -84,43 +84,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;20,19&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-up.gif"&gt;&lt;font style="color:#008400;"&gt;20,55&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;20,31&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;20,69&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;-0,69&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;0,02&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;19,96&lt;/td&gt;
+										&lt;td align="right"&gt;20,44&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;-0,14&lt;/td&gt;
+										&lt;td align="right"&gt;0,01&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;20,17&lt;/td&gt;
+										&lt;td align="right"&gt;20,53&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;20,22&lt;/td&gt;
+										&lt;td align="right"&gt;20,53&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;20,19&lt;/td&gt;
+										&lt;td align="right"&gt;20,55&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;20,33&lt;/td&gt;
+										&lt;td align="right"&gt;20,54&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;615.301&lt;/td&gt;
+										&lt;td align="right"&gt;202.814&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
@@ -141,43 +141,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;3,79&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;3,87&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;3,83&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;3,93&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;-1,66&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;-0,97&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;3,74&lt;/td&gt;
+										&lt;td align="right"&gt;3,87&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;-0,06&lt;/td&gt;
+										&lt;td align="right"&gt;-0,04&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;3,79&lt;/td&gt;
+										&lt;td align="right"&gt;3,87&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;3,80&lt;/td&gt;
+										&lt;td align="right"&gt;3,91&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;3,80&lt;/td&gt;
+										&lt;td align="right"&gt;3,87&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;3,86&lt;/td&gt;
+										&lt;td align="right"&gt;3,91&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;5.956.312&lt;/td&gt;
+										&lt;td align="right"&gt;1.589.189&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
@@ -198,43 +198,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;20,12&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-up.gif"&gt;&lt;font style="color:#008400;"&gt;20,27&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;20,26&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;20,27&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;-0,79&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;0,47&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;20,11&lt;/td&gt;
+										&lt;td align="right"&gt;20,15&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;-0,16&lt;/td&gt;
+										&lt;td align="right"&gt;0,10&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;20,12&lt;/td&gt;
+										&lt;td align="right"&gt;20,27&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;20,15&lt;/td&gt;
+										&lt;td align="right"&gt;20,18&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;20,13&lt;/td&gt;
+										&lt;td align="right"&gt;20,28&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;20,28&lt;/td&gt;
+										&lt;td align="right"&gt;20,18&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;1.334.928&lt;/td&gt;
+										&lt;td align="right"&gt;447.036&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
@@ -255,43 +255,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;57,09&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-up.gif"&gt;&lt;font style="color:#008400;"&gt;58,20&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;57,21&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;58,44&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;-0,33&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;0,69&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;56,75&lt;/td&gt;
+										&lt;td align="right"&gt;57,66&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;-0,19&lt;/td&gt;
+										&lt;td align="right"&gt;0,40&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;57,07&lt;/td&gt;
+										&lt;td align="right"&gt;58,18&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;57,00&lt;/td&gt;
+										&lt;td align="right"&gt;57,75&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;57,10&lt;/td&gt;
+										&lt;td align="right"&gt;58,20&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;57,28&lt;/td&gt;
+										&lt;td align="right"&gt;57,80&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;376.849&lt;/td&gt;
+										&lt;td align="right"&gt;97.260&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
@@ -312,43 +312,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;15,19&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;15,89&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;15,35&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;15,98&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;-1,94&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;-0,31&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;15,10&lt;/td&gt;
+										&lt;td align="right"&gt;15,82&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;-0,30&lt;/td&gt;
+										&lt;td align="right"&gt;-0,05&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;15,19&lt;/td&gt;
+										&lt;td align="right"&gt;15,88&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;15,35&lt;/td&gt;
+										&lt;td align="right"&gt;15,95&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;15,19&lt;/td&gt;
+										&lt;td align="right"&gt;15,89&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;15,49&lt;/td&gt;
+										&lt;td align="right"&gt;15,94&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;795.468&lt;/td&gt;
+										&lt;td align="right"&gt;196.143&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
@@ -369,43 +369,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;5,91&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;5,76&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;6,04&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;6,05&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;-2,38&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;-6,03&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;5,88&lt;/td&gt;
+										&lt;td align="right"&gt;5,75&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;-0,14&lt;/td&gt;
+										&lt;td align="right"&gt;-0,37&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;5,91&lt;/td&gt;
+										&lt;td align="right"&gt;5,76&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;6,03&lt;/td&gt;
+										&lt;td align="right"&gt;6,05&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;5,91&lt;/td&gt;
+										&lt;td align="right"&gt;5,76&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;6,05&lt;/td&gt;
+										&lt;td align="right"&gt;6,13&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;6.962.624&lt;/td&gt;
+										&lt;td align="right"&gt;11.792.215&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
@@ -426,43 +426,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;91,87&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;94,40&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;92,49&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;94,84&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;-0,55&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;-0,01&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;91,77&lt;/td&gt;
+										&lt;td align="right"&gt;94,21&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;-0,51&lt;/td&gt;
+										&lt;td align="right"&gt;-0,01&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;91,84&lt;/td&gt;
+										&lt;td align="right"&gt;94,38&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;91,94&lt;/td&gt;
+										&lt;td align="right"&gt;94,39&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;91,88&lt;/td&gt;
+										&lt;td align="right"&gt;94,41&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;92,38&lt;/td&gt;
+										&lt;td align="right"&gt;94,41&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;414.953&lt;/td&gt;
+										&lt;td align="right"&gt;108.471&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
@@ -483,43 +483,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;28,10&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;28,72&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;28,50&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;28,90&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;-1,63&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;-0,71&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;27,93&lt;/td&gt;
+										&lt;td align="right"&gt;28,62&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;-0,47&lt;/td&gt;
+										&lt;td align="right"&gt;-0,21&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;28,09&lt;/td&gt;
+										&lt;td align="right"&gt;28,72&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;28,50&lt;/td&gt;
+										&lt;td align="right"&gt;28,82&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;28,10&lt;/td&gt;
+										&lt;td align="right"&gt;28,74&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;28,57&lt;/td&gt;
+										&lt;td align="right"&gt;28,93&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;244.033&lt;/td&gt;
+										&lt;td align="right"&gt;42.725&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
@@ -540,43 +540,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-up.gif"&gt;&lt;font style="color:#008400;"&gt;54,98&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-up.gif"&gt;&lt;font style="color:#008400;"&gt;56,54&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;55,12&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;56,82&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;0,51&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;0,68&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;54,37&lt;/td&gt;
+										&lt;td align="right"&gt;56,18&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;0,28&lt;/td&gt;
+										&lt;td align="right"&gt;0,38&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;54,95&lt;/td&gt;
+										&lt;td align="right"&gt;56,53&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;54,39&lt;/td&gt;
+										&lt;td align="right"&gt;56,20&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;54,96&lt;/td&gt;
+										&lt;td align="right"&gt;56,55&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;54,70&lt;/td&gt;
+										&lt;td align="right"&gt;56,16&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;678.513&lt;/td&gt;
+										&lt;td align="right"&gt;115.347&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
@@ -597,43 +597,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;52,65&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;53,09&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;52,69&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;53,82&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;-1,55&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;-1,41&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;51,82&lt;/td&gt;
+										&lt;td align="right"&gt;53,06&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;-0,83&lt;/td&gt;
+										&lt;td align="right"&gt;-0,76&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;52,56&lt;/td&gt;
+										&lt;td align="right"&gt;52,98&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;52,17&lt;/td&gt;
+										&lt;td align="right"&gt;53,69&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;52,70&lt;/td&gt;
+										&lt;td align="right"&gt;53,19&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;53,48&lt;/td&gt;
+										&lt;td align="right"&gt;53,85&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;204.499&lt;/td&gt;
+										&lt;td align="right"&gt;57.816&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
@@ -654,43 +654,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;47,48&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;47,73&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;48,21&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;48,48&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;-1,27&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;-0,78&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;47,48&lt;/td&gt;
+										&lt;td align="right"&gt;47,73&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;-0,61&lt;/td&gt;
+										&lt;td align="right"&gt;-0,38&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;47,46&lt;/td&gt;
+										&lt;td align="right"&gt;47,72&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;48,02&lt;/td&gt;
+										&lt;td align="right"&gt;48,05&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;47,48&lt;/td&gt;
+										&lt;td align="right"&gt;47,77&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;48,09&lt;/td&gt;
+										&lt;td align="right"&gt;48,11&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;280.119&lt;/td&gt;
+										&lt;td align="right"&gt;124.047&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
@@ -711,43 +711,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;73,04&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-up.gif"&gt;&lt;font style="color:#008400;"&gt;73,38&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;73,26&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;73,42&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;-0,25&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;0,70&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;72,74&lt;/td&gt;
+										&lt;td align="right"&gt;73,00&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;-0,18&lt;/td&gt;
+										&lt;td align="right"&gt;0,51&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;73,02&lt;/td&gt;
+										&lt;td align="right"&gt;73,37&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;72,93&lt;/td&gt;
+										&lt;td align="right"&gt;73,09&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;73,06&lt;/td&gt;
+										&lt;td align="right"&gt;73,38&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;73,22&lt;/td&gt;
+										&lt;td align="right"&gt;72,87&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;224.269&lt;/td&gt;
+										&lt;td align="right"&gt;55.713&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
@@ -768,43 +768,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;11,80&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;12,24&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;11,83&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;12,33&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;-0,30&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;-0,41&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;11,70&lt;/td&gt;
+										&lt;td align="right"&gt;12,21&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;-0,04&lt;/td&gt;
+										&lt;td align="right"&gt;-0,05&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;11,80&lt;/td&gt;
+										&lt;td align="right"&gt;12,24&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;11,75&lt;/td&gt;
+										&lt;td align="right"&gt;12,25&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;11,80&lt;/td&gt;
+										&lt;td align="right"&gt;12,25&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;11,83&lt;/td&gt;
+										&lt;td align="right"&gt;12,29&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;9.410.385&lt;/td&gt;
+										&lt;td align="right"&gt;2.443.802&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
@@ -825,43 +825,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;2,82&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-up.gif"&gt;&lt;font style="color:#008400;"&gt;2,85&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;2,84&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;2,85&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;-1,12&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;0,04&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;2,82&lt;/td&gt;
+										&lt;td align="right"&gt;2,83&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;-0,03&lt;/td&gt;
+										&lt;td align="right"&gt;0,00&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;2,82&lt;/td&gt;
+										&lt;td align="right"&gt;2,85&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;2,84&lt;/td&gt;
+										&lt;td align="right"&gt;2,85&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;2,82&lt;/td&gt;
+										&lt;td align="right"&gt;2,85&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;2,86&lt;/td&gt;
+										&lt;td align="right"&gt;2,85&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;4.776.755&lt;/td&gt;
+										&lt;td align="right"&gt;1.161.389&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
@@ -882,43 +882,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;26,72&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;27,07&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;26,86&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;27,27&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;-1,26&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;-0,18&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;26,57&lt;/td&gt;
+										&lt;td align="right"&gt;26,98&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;-0,34&lt;/td&gt;
+										&lt;td align="right"&gt;-0,05&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;26,71&lt;/td&gt;
+										&lt;td align="right"&gt;27,06&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;26,82&lt;/td&gt;
+										&lt;td align="right"&gt;27,11&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;26,72&lt;/td&gt;
+										&lt;td align="right"&gt;27,07&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;27,06&lt;/td&gt;
+										&lt;td align="right"&gt;27,12&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;260.308&lt;/td&gt;
+										&lt;td align="right"&gt;67.076&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
@@ -939,43 +939,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;26,39&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-up.gif"&gt;&lt;font style="color:#008400;"&gt;27,53&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;27,16&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;27,54&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;-0,40&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;0,36&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;26,28&lt;/td&gt;
+										&lt;td align="right"&gt;27,38&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;-0,11&lt;/td&gt;
+										&lt;td align="right"&gt;0,10&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;26,39&lt;/td&gt;
+										&lt;td align="right"&gt;27,53&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;26,48&lt;/td&gt;
+										&lt;td align="right"&gt;27,38&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;26,40&lt;/td&gt;
+										&lt;td align="right"&gt;27,53&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;26,50&lt;/td&gt;
+										&lt;td align="right"&gt;27,43&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;1.842.329&lt;/td&gt;
+										&lt;td align="right"&gt;306.996&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
@@ -996,43 +996,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;45,55&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-up.gif"&gt;&lt;font style="color:#008400;"&gt;46,79&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;46,20&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;47,04&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;-1,72&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;0,33&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;45,28&lt;/td&gt;
+										&lt;td align="right"&gt;46,49&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;-0,80&lt;/td&gt;
+										&lt;td align="right"&gt;0,16&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;45,51&lt;/td&gt;
+										&lt;td align="right"&gt;46,78&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;46,20&lt;/td&gt;
+										&lt;td align="right"&gt;46,63&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;45,53&lt;/td&gt;
+										&lt;td align="right"&gt;46,80&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;46,34&lt;/td&gt;
+										&lt;td align="right"&gt;46,63&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;533.702&lt;/td&gt;
+										&lt;td align="right"&gt;109.911&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
@@ -1053,43 +1053,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;14,70&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-up.gif"&gt;&lt;font style="color:#008400;"&gt;14,92&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;14,73&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;14,92&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;-0,08&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;0,74&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;14,60&lt;/td&gt;
+										&lt;td align="right"&gt;14,76&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;-0,01&lt;/td&gt;
+										&lt;td align="right"&gt;0,11&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;14,70&lt;/td&gt;
+										&lt;td align="right"&gt;14,91&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;14,69&lt;/td&gt;
+										&lt;td align="right"&gt;14,76&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;14,71&lt;/td&gt;
+										&lt;td align="right"&gt;14,92&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;14,72&lt;/td&gt;
+										&lt;td align="right"&gt;14,81&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;610.752&lt;/td&gt;
+										&lt;td align="right"&gt;172.761&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
@@ -1110,43 +1110,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;22,68&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-up.gif"&gt;&lt;font style="color:#008400;"&gt;23,42&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;22,87&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;23,43&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;-0,83&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;1,28&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;22,60&lt;/td&gt;
+										&lt;td align="right"&gt;23,22&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;-0,19&lt;/td&gt;
+										&lt;td align="right"&gt;0,30&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;22,67&lt;/td&gt;
+										&lt;td align="right"&gt;23,42&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;22,78&lt;/td&gt;
+										&lt;td align="right"&gt;23,24&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;22,68&lt;/td&gt;
+										&lt;td align="right"&gt;23,43&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;22,87&lt;/td&gt;
+										&lt;td align="right"&gt;23,13&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;4.874.768&lt;/td&gt;
+										&lt;td align="right"&gt;1.301.351&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
@@ -1167,43 +1167,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;12,39&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;12,57&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;12,53&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;12,67&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;-1,04&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;-0,51&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;12,36&lt;/td&gt;
+										&lt;td align="right"&gt;12,57&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;-0,13&lt;/td&gt;
+										&lt;td align="right"&gt;-0,07&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;12,39&lt;/td&gt;
+										&lt;td align="right"&gt;12,57&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;12,47&lt;/td&gt;
+										&lt;td align="right"&gt;12,62&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;12,40&lt;/td&gt;
+										&lt;td align="right"&gt;12,58&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;12,52&lt;/td&gt;
+										&lt;td align="right"&gt;12,64&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;413.431&lt;/td&gt;
+										&lt;td align="right"&gt;114.197&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
@@ -1224,43 +1224,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;211,15&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-up.gif"&gt;&lt;font style="color:#008400;"&gt;215,00&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;212,40&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;215,10&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;-0,68&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;0,44&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;210,40&lt;/td&gt;
+										&lt;td align="right"&gt;213,25&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;-1,45&lt;/td&gt;
+										&lt;td align="right"&gt;0,95&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;211,10&lt;/td&gt;
+										&lt;td align="right"&gt;214,95&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;212,05&lt;/td&gt;
+										&lt;td align="right"&gt;213,50&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;211,20&lt;/td&gt;
+										&lt;td align="right"&gt;215,05&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;212,60&lt;/td&gt;
+										&lt;td align="right"&gt;214,05&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;132.521&lt;/td&gt;
+										&lt;td align="right"&gt;29.589&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
@@ -1281,43 +1281,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;37,54&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-up.gif"&gt;&lt;font style="color:#008400;"&gt;38,20&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;37,73&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;38,20&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;-0,61&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;0,63&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;37,52&lt;/td&gt;
+										&lt;td align="right"&gt;37,90&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;-0,23&lt;/td&gt;
+										&lt;td align="right"&gt;0,24&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;37,55&lt;/td&gt;
+										&lt;td align="right"&gt;38,19&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;37,63&lt;/td&gt;
+										&lt;td align="right"&gt;37,94&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;37,55&lt;/td&gt;
+										&lt;td align="right"&gt;38,20&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;37,77&lt;/td&gt;
+										&lt;td align="right"&gt;37,96&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;2.365.513&lt;/td&gt;
+										&lt;td align="right"&gt;409.211&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
@@ -1338,43 +1338,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;44,18&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-down.gif"&gt;&lt;font style="color:#FF0000;"&gt;43,48&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;44,60&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;43,56&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;-0,79&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;-0,13&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;44,11&lt;/td&gt;
+										&lt;td align="right"&gt;43,15&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;-0,35&lt;/td&gt;
+										&lt;td align="right"&gt;-0,06&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;44,17&lt;/td&gt;
+										&lt;td align="right"&gt;43,52&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;44,50&lt;/td&gt;
+										&lt;td align="right"&gt;43,55&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;44,19&lt;/td&gt;
+										&lt;td align="right"&gt;43,53&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;44,53&lt;/td&gt;
+										&lt;td align="right"&gt;43,53&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;111.217&lt;/td&gt;
+										&lt;td align="right"&gt;61.118&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
@@ -1395,43 +1395,43 @@
 									&lt;tr>
 										&lt;td width="20%"&gt;Laatst&lt;/td&gt;
 										&lt;td width="20%" align="right"&gt;
-											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-up.gif"&gt;&lt;font style="color:#008400;"&gt;32,81&lt;/font&gt;
+											&lt;img src="http://www.beursgorilla.nl/images/layout/koers-up.gif"&gt;&lt;font style="color:#008400;"&gt;33,30&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td width="20%"&gt;&lt;/td&gt;
 										&lt;td width="20%"&gt;Hoogste koers&lt;/td&gt;
-										&lt;td width="20%" align="right"&gt;32,94&lt;/td&gt;
+										&lt;td width="20%" align="right"&gt;33,32&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td &gt;Verschil %&lt;/td&gt;
 										&lt;td align="right"&gt;
-											&lt;font style="color:#FF0000;"&gt;0,49&lt;/font&gt;
+											&lt;font style="color:#FF0000;"&gt;0,63&lt;/font&gt;
 											
 										&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laagste koers&lt;/td&gt;
-										&lt;td align="right"&gt;32,15&lt;/td&gt;
+										&lt;td align="right"&gt;33,01&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Verschil&lt;/td&gt;
-										&lt;td align="right"&gt;0,16&lt;/td&gt;
+										&lt;td align="right"&gt;0,21&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Bied koers&lt;/td&gt;
-										&lt;td align="right"&gt;32,81&lt;/td&gt;
+										&lt;td align="right"&gt;33,30&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr bgcolor="#edf2fb"&gt;
 										&lt;td&gt;Open&lt;/td&gt;
-										&lt;td align="right"&gt;32,29&lt;/td&gt;
+										&lt;td align="right"&gt;33,16&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Laat koers&lt;/td&gt;
-										&lt;td align="right"&gt;32,82&lt;/td&gt;
+										&lt;td align="right"&gt;33,31&lt;/td&gt;
 									&lt;/tr&gt;
 									&lt;tr&gt;
 										&lt;td&gt;Vorig Slot&lt;/td&gt;
-										&lt;td align="right"&gt;32,65&lt;/td&gt;
+										&lt;td align="right"&gt;33,09&lt;/td&gt;
 										&lt;td &gt;&lt;/td&gt;
 										&lt;td&gt;Volume&lt;/td&gt;
-										&lt;td align="right"&gt;601.119&lt;/td&gt;
+										&lt;td align="right"&gt;99.210&lt;/td&gt;
 									&lt;/tr&gt;
 				
 				
